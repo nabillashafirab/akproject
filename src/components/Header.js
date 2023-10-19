@@ -14,7 +14,7 @@ const HeaderWrapper = styled.header`
 
 const Header = () => {
   return (
-    <header>
+    <HeaderWrapper>
       <nav>
         <ul>
           <li><a href="/">Home</a></li>
@@ -22,7 +22,7 @@ const Header = () => {
           <li><a href="/contact">Contact</a></li>
         </ul>
       </nav>
-    </header>
+    </HeaderWrapper>
   );
 };
 
