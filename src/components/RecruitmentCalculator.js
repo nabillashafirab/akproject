@@ -7,7 +7,7 @@ const RecruitmentCalculator = () => {
 
     const handleClickedTags = (tag) => {
         // clickedTags.add(tag);
-        setClickedTags(clickedTags.add(tag));
+        setClickedTags(prev => new Set([...prev, tag]));
     }
 
     useEffect(() => {
