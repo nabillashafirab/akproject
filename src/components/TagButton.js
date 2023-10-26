@@ -3,7 +3,7 @@ import { Button, Space } from 'antd';
 
 const TagButton = ({children, onTagClick}) => (
   <Space wrap>
-    <Button type="primary" onClick={onTagClick}>
+    <Button type="primary" onClick={() => onTagClick()}>
       {children}
     </Button>
   </Space>

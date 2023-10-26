@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import TagButton from './TagButton';
 import characterSets from './CharacterSets'
 
@@ -6,8 +6,14 @@ const RecruitmentCalculator = () => {
     const [clickedTags, setClickedTags] = useState(new Set());
 
     const handleClickedTags = (tag) => {
+        // clickedTags.add(tag);
         setClickedTags(clickedTags.add(tag));
     }
+
+    useEffect(() => {
+        console.log(clickedTags);
+    }, [clickedTags])
+
 
     const renderTagButtons = () => {
         const keys = Object.keys(characterSets);
@@ -23,7 +29,7 @@ const RecruitmentCalculator = () => {
         // [<TagButton key="Guard">Guard</TagButton>, <TagButton key="DPS">DPS</TagButton>, <TagButton key="Support">Support</TagButton>]
         return (
             <>
-            {Object.keys(characterSets).map(tag => (<TagButton key={tag}>{tag}</TagButton>))}
+            {Object.keys(characterSets).map(tag => (<TagButton key={tag} onTagClick={() => handleClickedTags(tag)}>{tag}</TagButton>))}
             </>
         );
     }
