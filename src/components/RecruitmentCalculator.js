@@ -14,11 +14,13 @@ const RecruitmentCalculator = () => {
         console.log(clickedTags); // Log the updated Set
 
         const clickedTagsArray = Array.from(clickedTags)
-        const intersection = characterSets[clickedTagsArray[0]].filter((character) =>
-            clickedTagsArray.every((key) => characterSets[key].includes(character))
-        );
-
-        console.log(intersection);
+        if (clickedTagsArray.length > 0){
+            const intersection = characterSets[clickedTagsArray[0]].filter((character) =>
+                clickedTagsArray.every((key) => characterSets[key].includes(character))
+            );
+            console.log(intersection);
+        }
+        
     }
 
     const renderTagButtons = () => {
