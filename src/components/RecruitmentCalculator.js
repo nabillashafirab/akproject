@@ -4,21 +4,20 @@ import characterSets from './CharacterSets'
 
 const RecruitmentCalculator = () => {
     const [clickedTags, setClickedTags] = useState(new Set());
-
     const handleClickedTags = (tag) => {
-        // clickedTags.add(tag);
-        setClickedTags(prev => new Set([...prev, tag]));
+        if (clickedTags.has(tag)) {
+        clickedTags.delete(tag);
+        } else {
+        clickedTags.add(tag);
+        }
+        setClickedTags(clickedTags)
+        console.log(clickedTags); // Log the updated Set
     }
-
-    useEffect(() => {
-        console.log(clickedTags);
-    }, [clickedTags])
-
 
     const renderTagButtons = () => {
         const keys = Object.keys(characterSets);
-        console.log(characterSets);
-        console.log(keys);
+        // console.log(characterSets);
+        // console.log(keys);
 
         // [1, 2, 3]
         // array.map(number => number * 2);
