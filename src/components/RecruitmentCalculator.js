@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState } from 'react';
 import TagButton from './TagButton';
 import characterSets from './CharacterSets'
 
@@ -13,8 +13,20 @@ const RecruitmentCalculator = () => {
         setClickedTags(clickedTags)
         console.log(clickedTags); // Log the updated Set
 
+        // Sets -> Array
         const clickedTagsArray = Array.from(clickedTags)
+
+        // Display operator lists
         if (clickedTagsArray.length > 0){
+            // Every tag operatorlists
+            const operatorLists = clickedTagsArray.map(
+                tag => characterSets[tag]
+            )
+            operatorLists.forEach((operatorList, index) => {
+                console.log(`${clickedTagsArray[index]}: [${operatorList.join(', ')}]`);
+              });
+            
+            // Exclusive intersections
             const intersection = characterSets[clickedTagsArray[0]].filter((character) =>
                 clickedTagsArray.every((key) => characterSets[key].includes(character))
             );
@@ -24,7 +36,7 @@ const RecruitmentCalculator = () => {
     }
 
     const renderTagButtons = () => {
-        const keys = Object.keys(characterSets);
+        // const keys = Object.keys(characterSets);
         // console.log(characterSets);
         // console.log(keys);
 
