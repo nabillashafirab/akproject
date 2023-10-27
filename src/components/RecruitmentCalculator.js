@@ -26,6 +26,14 @@ const RecruitmentCalculator = () => {
                 console.log(`${clickedTagsArray[index]}: [${operatorList.join(', ')}]`);
               });
             
+            // Intersections
+            for (let i = 0; i < operatorLists.length; i++) {
+                for (let j = i + 1; j < operatorLists.length; j++) {
+                    const intersectionin = operatorLists[i].filter(item => operatorLists[j].includes(item));
+                    const tagsString = `${clickedTagsArray[i]} & ${clickedTagsArray[j]}`;
+                    console.log(`${tagsString}: [${intersectionin.join(', ')}]`);
+                }
+}
             // Exclusive intersections
             const intersection = characterSets[clickedTagsArray[0]].filter((character) =>
                 clickedTagsArray.every((key) => characterSets[key].includes(character))
