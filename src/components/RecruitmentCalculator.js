@@ -18,38 +18,6 @@ const RecruitmentCalculator = () => {
         // Sets -> Array
         const clickedTagsArray = Array.from(clickedTags)
 
-//         ```
-// const result = new Set();
-
-// // Looping list of operator
-// result.add(new Set(operatorList))
-// ```
-
-//         // Display operator lists
-//         if (clickedTagsArray.length > 0){
-//             // Every tag operatorlists
-//             const operatorLists = clickedTagsArray.map(
-//                 tag => characterSets[tag]
-//             )
-//             operatorLists.forEach((operatorList, index) => {
-//                 console.log(`${clickedTagsArray[index]}: [${operatorList.join(', ')}]`);
-//               });
-            
-//             // Intersections
-//             for (let i = 0; i < operatorLists.length; i++) {
-//                 for (let j = i + 1; j < operatorLists.length; j++) {
-//                     const intersectionin = operatorLists[i].filter(item => operatorLists[j].includes(item));
-//                     const tagsString = `${clickedTagsArray[i]} & ${clickedTagsArray[j]}`;
-//                     console.log(`${tagsString}: [${intersectionin.join(', ')}]`);
-//                 }
-// }
-//             // Exclusive intersections
-//             const intersection = characterSets[clickedTagsArray[0]].filter((character) =>
-//                 clickedTagsArray.every((key) => characterSets[key].includes(character))
-//             );
-//             console.log(intersection);
-//         }
-        
         let tagsCombinations = _.flatMap(clickedTagsArray, (v, i, a) => _.combinations(a, i + 1));
         const returnOperatorList = tagsCombinations.map(x => {
             const toBeIntersect = [];
@@ -57,9 +25,13 @@ const RecruitmentCalculator = () => {
                 toBeIntersect.push(characterSets[y]);
             });
 
-            const result = toBeIntersect.reduce((a, b) => a.filter(c => b.includes(c)));
-            console.log(`${x}: [${result}]`);
-            return result; // Return the result for each combination
+            if (x.length <= 3) {
+                const result = toBeIntersect.reduce((a, b) => a.filter(c => b.includes(c)));
+                if (result.length > 0) {
+                    console.log(`${x}: [${result}]`);
+                    return result; // Return the result for each combination
+                }
+            }
 });
 
         
