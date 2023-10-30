@@ -1,7 +1,9 @@
 const characterSets = {
-    Guard: ["Specter", "Indra", "Swire"],
-    DPS: ["Indra", "Swire", "Firewatch"],
+    Guard: ["Specter", "Indra", "Swire", "Melantha"],
+    DPS: ["Indra", "Swire", "Firewatch", "Melantha"],
     Support: ["Swire", "Ptilopsis", "Tsukinogi"],
+    'Senior Operator': ["Specter", "Indra", "Swire", "Firewatch", "Ptilopsis", "Tsukinogi"],
+    Survival: ["Melantha", "Indra", "Specter", "Tsukinogi"]
   };
 
 export default characterSets;
