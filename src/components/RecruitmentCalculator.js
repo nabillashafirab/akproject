@@ -7,36 +7,41 @@ import _ from 'lodash';
 const RecruitmentCalculator = () => {
     const [clickedTags, setClickedTags] = useState(new Set());
     const handleClickedTags = (tag) => {
-        if (clickedTags.size <= 6) {
-            if (clickedTags.has(tag)) {
-                clickedTags.delete(tag);
-            } else {
-                clickedTags.add(tag);
-            }
-            setClickedTags(clickedTags)
-            console.log(clickedTags); // Log the updated Set
+        
+        // add tag to clickedTags
+        if (clickedTags.has(tag)) {
+            clickedTags.delete(tag);
+        } else {
+            clickedTags.add(tag);
+        }
+        setClickedTags(clickedTags)
+        console.log(clickedTags); // Log the updated Set
+    
+    
+        // Sets -> Array
+        const clickedTagsArray = Array.from(clickedTags)
+        
+        //max clicked tags is 5
+        if (clickedTagsArray.length <= 5) {
+            let tagsCombinations = _.flatMap(clickedTagsArray, (v, i, a) => _.combinations(a, i + 1));
+            const returnOperatorList = tagsCombinations.map(x => {
+                //return results for each combinations
+                const toBeIntersect = [];
+                x.forEach(y => {
+                    toBeIntersect.push(characterSets[y]);
+                });
+
+                if (x.length <= 3) {
+                    const result = toBeIntersect.reduce((a, b) => a.filter(c => b.includes(c)));
+                    if (result.length > 0) {
+                        console.log(`${x}: [${result}]`);
+                        return result; // Return the result for each combination
+                    }
+                }
+            });
         } else {
             console.log(`MAX tag has reached`);
         }
-
-        // Sets -> Array
-        const clickedTagsArray = Array.from(clickedTags)
-
-        let tagsCombinations = _.flatMap(clickedTagsArray, (v, i, a) => _.combinations(a, i + 1));
-        const returnOperatorList = tagsCombinations.map(x => {
-            const toBeIntersect = [];
-            x.forEach(y => {
-                toBeIntersect.push(characterSets[y]);
-            });
-
-            if (x.length <= 3) {
-                const result = toBeIntersect.reduce((a, b) => a.filter(c => b.includes(c)));
-                if (result.length > 0) {
-                    console.log(`${x}: [${result}]`);
-                    return result; // Return the result for each combination
-                }
-            }
-});
 
         
     }
