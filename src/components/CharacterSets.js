@@ -1,9 +1,11 @@
 const characterSets = {
-    Guard: ["Specter", "Indra", "Swire", "Melantha"],
-    DPS: ["Indra", "Swire", "Firewatch", "Melantha"],
-    Support: ["Swire", "Ptilopsis", "Tsukinogi"],
+    Guard: ["Specter", "Indra", "Swire", "Melantha", "SilverAsh", "Skadi", "Hellagur", "Blaze", "Ch'en"],
+    DPS: ["Indra", "Swire", "Firewatch", "Melantha", "SilverAsh", "Magallan", "Aak","Ch'en"],
+    Support: ["Swire", "Ptilopsis", "Tsukinogi", "SilverAsh", "Magallan", "Aak"],
     'Senior Operator': ["Specter", "Indra", "Swire", "Firewatch", "Ptilopsis", "Tsukinogi"],
-    Survival: ["Melantha", "Indra", "Specter", "Tsukinogi"]
+    Survival: ["Melantha", "Indra", "Specter", "Tsukinogi", "Skadi", "Hellagur", "Blaze"],
+    'Top Operator': ["SilverAsh", "Skadi", "Hellagur", "Blaze", "Magallan", "Aak"],
+    Starter: ["Melantha"]
   };
 
 export default characterSets;
