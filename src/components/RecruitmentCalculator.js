@@ -7,13 +7,17 @@ import _ from 'lodash';
 const RecruitmentCalculator = () => {
     const [clickedTags, setClickedTags] = useState(new Set());
     const handleClickedTags = (tag) => {
-        if (clickedTags.has(tag)) {
-        clickedTags.delete(tag);
+        if (clickedTags.size <= 6) {
+            if (clickedTags.has(tag)) {
+                clickedTags.delete(tag);
+            } else {
+                clickedTags.add(tag);
+            }
+            setClickedTags(clickedTags)
+            console.log(clickedTags); // Log the updated Set
         } else {
-        clickedTags.add(tag);
+            console.log(`MAX tag has reached`);
         }
-        setClickedTags(clickedTags)
-        console.log(clickedTags); // Log the updated Set
 
         // Sets -> Array
         const clickedTagsArray = Array.from(clickedTags)
