@@ -5,12 +5,6 @@ import { useState } from 'react';
 import RecruitmentCalculator from './components/RecruitmentCalculator'
 
 function App() {
-  const [clicked, setClicked] = useState(false);
-
-  function handleClick() {
-    setClicked(true);
-  }
-
   // Declare function named convertStringTagToButton 
   // function convertStringTagToButton(tag) {
     // 3 times
@@ -26,10 +20,9 @@ function App() {
   return (
     <div className="App">
       <div className="RecruitmentTagButtons">
-        <TagButton onTagClick={handleClick}>Hello</TagButton>      
+        <TagButton>Hello</TagButton>      
       </div>
       <RecruitmentCalculator/>
-      {clicked && <div>Clicked!</div>}
     </div>
   );
 }
