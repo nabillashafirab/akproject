@@ -15,8 +15,7 @@ const RecruitmentCalculator = () => {
     } else {
       clickedTags.add(tag);
     }
-    setClickedTags(clickedTags);
-    console.log(clickedTags); // Log the updated Set
+    setClickedTags(new Set(clickedTags));
   };
 
   const renderTagButtons = () => {
@@ -49,7 +48,7 @@ const RecruitmentCalculator = () => {
     //max clicked tags is 5
     if (clickedTagsArray.length <= 5) {
       let tagsCombinations = _.flatMap(clickedTagsArray, (v, i, a) =>
-        _.combinations(a, i + 1),
+        _.combinations(a, i + 1)
       );
       const returnOperatorList = tagsCombinations.map((x) => {
         //return results for each combinations
@@ -58,11 +57,15 @@ const RecruitmentCalculator = () => {
           toBeIntersect.push(characterSets[y]);
         });
 
+        console.log(x);
         if (x.length <= 3) {
-          const result = toBeIntersect
-            .reduce((a, b) => a.filter((c) => b.includes(c)))
+          const result = toBeIntersect.reduce((a, b) =>
+            a.filter((c) => b.includes(c))
+          );
           if (result.length > 0) {
             console.log(`${x}: [${result}]`);
+            console.log(x);
+            console.log(result);
             // setCalculatedOperatorList(result); // Return the result for each combination
           }
         }
@@ -78,14 +81,15 @@ const RecruitmentCalculator = () => {
   operatorList();
 
   const renderOperatorList = () => {
-    return (<></>);
-  }
+    return <></>;
+  };
 
-return <>
-  {renderTagButtons()}
-  {renderOperatorList()}
-  
-  </>;
+  return (
+    <>
+      {renderTagButtons()}
+      {renderOperatorList()}
+    </>
+  );
 };
 
 export default RecruitmentCalculator;
