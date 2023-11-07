@@ -32,7 +32,14 @@ const RecruitmentCalculator = () => {
                 });
 
                 if (x.length <= 3) {
-                    const result = toBeIntersect.reduce((a, b) => a.filter(c => b.includes(c)));
+                    const result = toBeIntersect.reduce((a, b) => a.filter(c => b.includes(c))).filter((value, index, array) => {
+                        if (value.rarity <= 5) {
+                            return true;
+                        }
+
+                        // 6*
+                        return x.includes("Top Operator")
+                    });
                     if (result.length > 0) {
                         console.log(`${x}: [${result}]`);
                         return result; // Return the result for each combination
@@ -41,6 +48,7 @@ const RecruitmentCalculator = () => {
             });
         } else {
             console.log(`MAX tag has reached`);
+            console.log(clickedTags)
         }
 
         
