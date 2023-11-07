@@ -1,0 +1,3814 @@
+[
+  {
+    "tags": [
+      "DPS",
+      "Nuker",
+      "Top Operator"
+    ],
+    "operators": [
+      {
+        "id": "char_010_chen",
+        "name_cn": "陈",
+        "name_en": "Chen",
+        "name_jp": "チェン",
+        "name_kr": "첸",
+        "characteristic_cn": "",
+        "characteristic_en": "",
+        "characteristic_jp": "",
+        "characteristic_kr": "",
+        "camp": "龙门",
+        "type": "近卫",
+        "level": 6,
+        "sex": "女",
+        "tags": [
+          "高级资深干员",
+          "近战位",
+          "爆发",
+          "输出"
+        ],
+        "hidden": false,
+        "globalHidden": false
+      }
+    ]
+  },
+  {
+    "tags": [
+      "Nuker",
+      "Top Operator"
+    ],
+    "operators": [
+      {
+        "id": "char_010_chen",
+        "name_cn": "陈",
+        "name_en": "Chen",
+        "name_jp": "チェン",
+        "name_kr": "첸",
+        "characteristic_cn": "",
+        "characteristic_en": "",
+        "characteristic_jp": "",
+        "characteristic_kr": "",
+        "camp": "龙门",
+        "type": "近卫",
+        "level": 6,
+        "sex": "女",
+        "tags": [
+          "高级资深干员",
+          "近战位",
+          "爆发",
+          "输出"
+        ],
+        "hidden": false,
+        "globalHidden": false
+      }
+    ]
+  },
+  {
+    "tags": [
+      "AoE",
+      "Top Operator"
+    ],
+    "operators": [
+      {
+        "id": "char_134_ifrit",
+        "name_cn": "伊芙利特",
+        "name_en": "Ifrit",
+        "name_jp": "イフリータ",
+        "name_kr": "이프리트",
+        "characteristic_cn": "攻击造成超远距离的群体法术伤害",
+        "characteristic_en": "Attacks cause super-distance group spell damage",
+        "characteristic_jp": "",
+        "characteristic_kr": "",
+        "camp": "莱茵生命实验室",
+        "type": "术师",
+        "level": 6,
+        "sex": "女",
+        "tags": [
+          "高级资深干员",
+          "远程位",
+          "群攻",
+          "削弱"
+        ],
+        "hidden": false
+      },
+      {
+        "id": "char_213_mostma",
+        "name_cn": "莫斯提马",
+        "name_en": "Mostima",
+        "name_jp": "モスティマ",
+        "name_kr": "모스티마",
+        "characteristic_cn": "",
+        "characteristic_en": "",
+        "characteristic_jp": "",
+        "characteristic_kr": "",
+        "camp": "",
+        "type": "术师",
+        "level": 6,
+        "sex": "女",
+        "tags": [
+          "高级资深干员",
+          "远程位",
+          "群攻",
+          "支援",
+          "控场"
+        ],
+        "hidden": false,
+        "globalHidden": false
+      }
+    ]
+  },
+  {
+    "tags": [
+      "DPS",
+      "Top Operator"
+    ],
+    "operators": [
+      {
+        "id": "char_225_haak",
+        "name_cn": "阿",
+        "name_en": "Aak",
+        "name_jp": "ア",
+        "name_kr": "아",
+        "characteristic_cn": "",
+        "characteristic_en": "",
+        "characteristic_jp": "",
+        "characteristic_kr": "",
+        "camp": "",
+        "type": "特种",
+        "level": 6,
+        "sex": "男",
+        "tags": [
+          "高级资深干员",
+          "远程位",
+          "支援",
+          "输出"
+        ],
+        "hidden": false,
+        "globalHidden": false
+      },
+      {
+        "id": "char_222_bpipe",
+        "name_cn": "风笛",
+        "name_en": "Bagpipe",
+        "name_jp": "バグパイプ",
+        "name_kr": "백파이프",
+        "characteristic_cn": "",
+        "characteristic_en": "",
+        "characteristic_jp": "",
+        "characteristic_kr": "",
+        "camp": "",
+        "type": "先锋",
+        "level": 6,
+        "sex": "女",
+        "tags": [
+          "高级资深干员",
+          "近战位",
+          "费用回复",
+          "输出"
+        ],
+        "hidden": false,
+        "globalHidden": false
+      },
+      {
+        "id": "char_017_huang",
+        "name_cn": "煌",
+        "name_en": "Blaze",
+        "name_jp": "ブレイズ",
+        "name_kr": "블레이즈",
+        "characteristic_cn": "",
+        "characteristic_en": "",
+        "characteristic_jp": "",
+        "characteristic_kr": "",
+        "camp": "",
+        "type": "近卫",
+        "level": 6,
+        "sex": "女",
+        "tags": [
+          "高级资深干员",
+          "近战位",
+          "输出",
+          "生存"
+        ],
+        "hidden": false,
+        "globalHidden": false
+      },
+      {
+        "id": "char_2013_cerber",
+        "name_cn": "刻俄柏",
+        "name_en": "Ceobe",
+        "name_jp": "ケオベ",
+        "name_kr": "케오베",
+        "characteristic_cn": "",
+        "characteristic_en": "",
+        "characteristic_jp": "",
+        "characteristic_kr": "",
+        "camp": "",
+        "type": "术师",
+        "level": 6,
+        "sex": "女",
+        "tags": [
+          "高级资深干员",
+          "远程位",
+          "输出",
+          "控场"
+        ],
+        "hidden": false,
+        "globalHidden": false
+      },
+      {
+        "id": "char_010_chen",
+        "name_cn": "陈",
+        "name_en": "Chen",
+        "name_jp": "チェン",
+        "name_kr": "첸",
+        "characteristic_cn": "",
+        "characteristic_en": "",
+        "characteristic_jp": "",
+        "characteristic_kr": "",
+        "camp": "龙门",
+        "type": "近卫",
+        "level": 6,
+        "sex": "女",
+        "tags": [
+          "高级资深干员",
+          "近战位",
+          "爆发",
+          "输出"
+        ],
+        "hidden": false,
+        "globalHidden": false
+      },
+      {
+        "id": "char_103_angel",
+        "name_cn": "能天使",
+        "name_en": "Exusiai",
+        "name_jp": "エクシア",
+        "name_kr": "엑시아",
+        "characteristic_cn": "优先攻击空中单位",
+        "characteristic_en": "Priority attack air unit",
+        "characteristic_jp": "",
+        "characteristic_kr": "",
+        "camp": "企鹅物流",
+        "type": "狙击",
+        "level": 6,
+        "sex": "女",
+        "tags": [
+          "高级资深干员",
+          "远程位",
+          "输出"
+        ],
+        "hidden": false
+      },
+      {
+        "id": "char_188_helage",
+        "name_cn": "赫拉格",
+        "name_en": "Hellagur",
+        "name_jp": "ヘラグ",
+        "name_kr": "헬라그",
+        "characteristic_cn": "",
+        "characteristic_en": "",
+        "characteristic_jp": "",
+        "characteristic_kr": "",
+        "camp": "",
+        "type": "近卫",
+        "level": 6,
+        "sex": "男",
+        "tags": [
+          "高级资深干员",
+          "近战位",
+          "输出",
+          "生存"
+        ],
+        "hidden": false,
+        "globalHidden": false
+      },
+      {
+        "id": "char_136_hsguma",
+        "name_cn": "星熊",
+        "name_en": "Hoshiguma",
+        "name_jp": "ホシグマ",
+        "name_kr": "호시구마",
+        "characteristic_cn": "能够阻挡三个敌人",
+        "characteristic_en": "Able to block three enemies",
+        "characteristic_jp": "",
+        "characteristic_kr": "",
+        "camp": "龙门",
+        "type": "重装",
+        "level": 6,
+        "sex": "女",
+        "tags": [
+          "高级资深干员",
+          "近战位",
+          "防护",
+          "输出"
+        ],
+        "hidden": false
+      },
+      {
+        "id": "char_248_mgllan",
+        "name_cn": "麦哲伦",
+        "name_en": "Magallan",
+        "name_jp": "マゼラン",
+        "name_kr": "마젤란",
+        "characteristic_cn": "",
+        "characteristic_en": "",
+        "characteristic_jp": "",
+        "characteristic_kr": "",
+        "camp": "",
+        "type": "辅助",
+        "level": 6,
+        "sex": "女",
+        "tags": [
+          "高级资深干员",
+          "远程位",
+          "支援",
+          "减速",
+          "输出"
+        ],
+        "hidden": false,
+        "globalHidden": false
+      },
+      {
+        "id": "char_250_phatom",
+        "name_cn": "傀影",
+        "name_en": "Phantom",
+        "name_jp": "ファントム",
+        "name_kr": "팬텀",
+        "characteristic_cn": "",
+        "characteristic_en": "",
+        "characteristic_jp": "",
+        "characteristic_kr": "",
+        "camp": "",
+        "type": "特种",
+        "level": 6,
+        "sex": "男",
+        "tags": [
+          "高级资深干员",
+          "近战位",
+          "快速复活",
+          "控场",
+          "输出"
+        ],
+        "hidden": false,
+        "globalHidden": false
+      },
+      {
+        "id": "char_340_shwaz",
+        "name_cn": "黑",
+        "name_en": "Schwarz",
+        "name_jp": "シュヴァルツ",
+        "name_kr": "슈바르츠",
+        "characteristic_cn": "",
+        "characteristic_en": "",
+        "characteristic_jp": "",
+        "characteristic_kr": "",
+        "camp": "",
+        "type": "狙击",
+        "level": 6,
+        "sex": "女",
+        "tags": [
+          "高级资深干员",
+          "远程位",
+          "输出"
+        ],
+        "hidden": false,
+        "globalHidden": false
+      },
+      {
+        "id": "char_112_siege",
+        "name_cn": "推进之王",
+        "name_en": "Siege",
+        "name_jp": "シージ",
+        "name_kr": "시즈",
+        "characteristic_cn": "能够阻挡两个敌人",
+        "characteristic_en": "Able to block two enemies",
+        "characteristic_jp": "",
+        "characteristic_kr": "",
+        "camp": "维多利亚",
+        "type": "先锋",
+        "level": 6,
+        "sex": "女",
+        "tags": [
+          "高级资深干员",
+          "近战位",
+          "费用回复",
+          "输出"
+        ],
+        "hidden": false
+      },
+      {
+        "id": "char_172_svrash",
+        "name_cn": "银灰",
+        "name_en": "SilverAsh",
+        "name_jp": "シルバーアッシュ",
+        "name_kr": "실버애쉬",
+        "characteristic_cn": "可以进行远程攻击，但此时攻击力降低至80%",
+        "characteristic_en": "Can be used for remote attacks，But at this time the attack power is reduced to 80%.",
+        "characteristic_jp": "",
+        "characteristic_kr": "",
+        "camp": "谢拉格",
+        "type": "近卫",
+        "level": 6,
+        "sex": "男",
+        "tags": [
+          "高级资深干员",
+          "近战位",
+          "输出",
+          "支援"
+        ],
+        "hidden": false
+      },
+      {
+        "id": "char_263_skadi",
+        "name_cn": "斯卡蒂",
+        "name_en": "Skadi",
+        "name_jp": "スカジ",
+        "name_kr": "스카디",
+        "characteristic_cn": "",
+        "characteristic_en": "",
+        "characteristic_jp": "",
+        "characteristic_kr": "",
+        "camp": "",
+        "type": "近卫",
+        "level": 6,
+        "sex": "女",
+        "tags": [
+          "高级资深干员",
+          "近战位",
+          "输出",
+          "生存"
+        ],
+        "hidden": false,
+        "globalHidden": false
+      },
+      {
+        "id": "char_400_weedy",
+        "name_cn": "温蒂",
+        "name_en": "Weedy",
+        "name_jp": "ウィーディ",
+        "name_kr": "위디",
+        "characteristic_cn": "",
+        "characteristic_en": "",
+        "characteristic_jp": "",
+        "characteristic_kr": "",
+        "camp": "",
+        "type": "特种",
+        "level": 6,
+        "sex": "女",
+        "tags": [
+          "高级资深干员",
+          "近战位",
+          "位移",
+          "输出",
+          "控场"
+        ],
+        "hidden": false,
+        "globalHidden": false
+      },
+      {
+        "id": "char_197_poca",
+        "name_cn": "早露",
+        "name_en": "Роса",
+        "name_jp": "ロサ",
+        "name_kr": "로사",
+        "characteristic_cn": "",
+        "characteristic_en": "",
+        "characteristic_jp": "",
+        "characteristic_kr": "",
+        "camp": "",
+        "type": "狙击",
+        "level": 6,
+        "sex": "女",
+        "tags": [
+          "高级资深干员",
+          "远程位",
+          "输出",
+          "控场"
+        ],
+        "hidden": false,
+        "globalHidden": false
+      }
+    ]
+  },
+  {
+    "tags": [
+      "Top Operator"
+    ],
+    "operators": [
+      {
+        "id": "char_225_haak",
+        "name_cn": "阿",
+        "name_en": "Aak",
+        "name_jp": "ア",
+        "name_kr": "아",
+        "characteristic_cn": "",
+        "characteristic_en": "",
+        "characteristic_jp": "",
+        "characteristic_kr": "",
+        "camp": "",
+        "type": "特种",
+        "level": 6,
+        "sex": "男",
+        "tags": [
+          "高级资深干员",
+          "远程位",
+          "支援",
+          "输出"
+        ],
+        "hidden": false,
+        "globalHidden": false
+      },
+      {
+        "id": "char_222_bpipe",
+        "name_cn": "风笛",
+        "name_en": "Bagpipe",
+        "name_jp": "バグパイプ",
+        "name_kr": "백파이프",
+        "characteristic_cn": "",
+        "characteristic_en": "",
+        "characteristic_jp": "",
+        "characteristic_kr": "",
+        "camp": "",
+        "type": "先锋",
+        "level": 6,
+        "sex": "女",
+        "tags": [
+          "高级资深干员",
+          "近战位",
+          "费用回复",
+          "输出"
+        ],
+        "hidden": false,
+        "globalHidden": false
+      },
+      {
+        "id": "char_017_huang",
+        "name_cn": "煌",
+        "name_en": "Blaze",
+        "name_jp": "ブレイズ",
+        "name_kr": "블레이즈",
+        "characteristic_cn": "",
+        "characteristic_en": "",
+        "characteristic_jp": "",
+        "characteristic_kr": "",
+        "camp": "",
+        "type": "近卫",
+        "level": 6,
+        "sex": "女",
+        "tags": [
+          "高级资深干员",
+          "近战位",
+          "输出",
+          "生存"
+        ],
+        "hidden": false,
+        "globalHidden": false
+      },
+      {
+        "id": "char_2013_cerber",
+        "name_cn": "刻俄柏",
+        "name_en": "Ceobe",
+        "name_jp": "ケオベ",
+        "name_kr": "케오베",
+        "characteristic_cn": "",
+        "characteristic_en": "",
+        "characteristic_jp": "",
+        "characteristic_kr": "",
+        "camp": "",
+        "type": "术师",
+        "level": 6,
+        "sex": "女",
+        "tags": [
+          "高级资深干员",
+          "远程位",
+          "输出",
+          "控场"
+        ],
+        "hidden": false,
+        "globalHidden": false
+      },
+      {
+        "id": "char_010_chen",
+        "name_cn": "陈",
+        "name_en": "Chen",
+        "name_jp": "チェン",
+        "name_kr": "첸",
+        "characteristic_cn": "",
+        "characteristic_en": "",
+        "characteristic_jp": "",
+        "characteristic_kr": "",
+        "camp": "龙门",
+        "type": "近卫",
+        "level": 6,
+        "sex": "女",
+        "tags": [
+          "高级资深干员",
+          "近战位",
+          "爆发",
+          "输出"
+        ],
+        "hidden": false,
+        "globalHidden": false
+      },
+      {
+        "id": "char_103_angel",
+        "name_cn": "能天使",
+        "name_en": "Exusiai",
+        "name_jp": "エクシア",
+        "name_kr": "엑시아",
+        "characteristic_cn": "优先攻击空中单位",
+        "characteristic_en": "Priority attack air unit",
+        "characteristic_jp": "",
+        "characteristic_kr": "",
+        "camp": "企鹅物流",
+        "type": "狙击",
+        "level": 6,
+        "sex": "女",
+        "tags": [
+          "高级资深干员",
+          "远程位",
+          "输出"
+        ],
+        "hidden": false
+      },
+      {
+        "id": "char_188_helage",
+        "name_cn": "赫拉格",
+        "name_en": "Hellagur",
+        "name_jp": "ヘラグ",
+        "name_kr": "헬라그",
+        "characteristic_cn": "",
+        "characteristic_en": "",
+        "characteristic_jp": "",
+        "characteristic_kr": "",
+        "camp": "",
+        "type": "近卫",
+        "level": 6,
+        "sex": "男",
+        "tags": [
+          "高级资深干员",
+          "近战位",
+          "输出",
+          "生存"
+        ],
+        "hidden": false,
+        "globalHidden": false
+      },
+      {
+        "id": "char_136_hsguma",
+        "name_cn": "星熊",
+        "name_en": "Hoshiguma",
+        "name_jp": "ホシグマ",
+        "name_kr": "호시구마",
+        "characteristic_cn": "能够阻挡三个敌人",
+        "characteristic_en": "Able to block three enemies",
+        "characteristic_jp": "",
+        "characteristic_kr": "",
+        "camp": "龙门",
+        "type": "重装",
+        "level": 6,
+        "sex": "女",
+        "tags": [
+          "高级资深干员",
+          "近战位",
+          "防护",
+          "输出"
+        ],
+        "hidden": false
+      },
+      {
+        "id": "char_134_ifrit",
+        "name_cn": "伊芙利特",
+        "name_en": "Ifrit",
+        "name_jp": "イフリータ",
+        "name_kr": "이프리트",
+        "characteristic_cn": "攻击造成超远距离的群体法术伤害",
+        "characteristic_en": "Attacks cause super-distance group spell damage",
+        "characteristic_jp": "",
+        "characteristic_kr": "",
+        "camp": "莱茵生命实验室",
+        "type": "术师",
+        "level": 6,
+        "sex": "女",
+        "tags": [
+          "高级资深干员",
+          "远程位",
+          "群攻",
+          "削弱"
+        ],
+        "hidden": false
+      },
+      {
+        "id": "char_248_mgllan",
+        "name_cn": "麦哲伦",
+        "name_en": "Magallan",
+        "name_jp": "マゼラン",
+        "name_kr": "마젤란",
+        "characteristic_cn": "",
+        "characteristic_en": "",
+        "characteristic_jp": "",
+        "characteristic_kr": "",
+        "camp": "",
+        "type": "辅助",
+        "level": 6,
+        "sex": "女",
+        "tags": [
+          "高级资深干员",
+          "远程位",
+          "支援",
+          "减速",
+          "输出"
+        ],
+        "hidden": false,
+        "globalHidden": false
+      },
+      {
+        "id": "char_213_mostma",
+        "name_cn": "莫斯提马",
+        "name_en": "Mostima",
+        "name_jp": "モスティマ",
+        "name_kr": "모스티마",
+        "characteristic_cn": "",
+        "characteristic_en": "",
+        "characteristic_jp": "",
+        "characteristic_kr": "",
+        "camp": "",
+        "type": "术师",
+        "level": 6,
+        "sex": "女",
+        "tags": [
+          "高级资深干员",
+          "远程位",
+          "群攻",
+          "支援",
+          "控场"
+        ],
+        "hidden": false,
+        "globalHidden": false
+      },
+      {
+        "id": "char_179_cgbird",
+        "name_cn": "夜莺",
+        "name_en": "Nightingale",
+        "name_jp": "ナイチンゲール",
+        "name_kr": "나이팅게일",
+        "characteristic_cn": "同时恢复三个友方单位的生命",
+        "characteristic_en": "Restore the lives of three friendly units at the same time",
+        "characteristic_jp": "",
+        "characteristic_kr": "",
+        "camp": "罗德岛",
+        "type": "医疗",
+        "level": 6,
+        "sex": "女",
+        "tags": [
+          "高级资深干员",
+          "远程位",
+          "治疗",
+          "支援"
+        ],
+        "hidden": false
+      },
+      {
+        "id": "char_250_phatom",
+        "name_cn": "傀影",
+        "name_en": "Phantom",
+        "name_jp": "ファントム",
+        "name_kr": "팬텀",
+        "characteristic_cn": "",
+        "characteristic_en": "",
+        "characteristic_jp": "",
+        "characteristic_kr": "",
+        "camp": "",
+        "type": "特种",
+        "level": 6,
+        "sex": "男",
+        "tags": [
+          "高级资深干员",
+          "近战位",
+          "快速复活",
+          "控场",
+          "输出"
+        ],
+        "hidden": false,
+        "globalHidden": false
+      },
+      {
+        "id": "char_202_demkni",
+        "name_cn": "塞雷娅",
+        "name_en": "Saria",
+        "name_jp": "サリア",
+        "name_kr": "사리아",
+        "characteristic_cn": "技能可以治疗友方单位",
+        "characteristic_en": "Skills can treat friendly units",
+        "characteristic_jp": "",
+        "characteristic_kr": "",
+        "camp": "莱茵生命实验室",
+        "type": "重装",
+        "level": 6,
+        "sex": "女",
+        "tags": [
+          "高级资深干员",
+          "近战位",
+          "防护",
+          "治疗",
+          "支援"
+        ],
+        "hidden": false
+      },
+      {
+        "id": "char_340_shwaz",
+        "name_cn": "黑",
+        "name_en": "Schwarz",
+        "name_jp": "シュヴァルツ",
+        "name_kr": "슈바르츠",
+        "characteristic_cn": "",
+        "characteristic_en": "",
+        "characteristic_jp": "",
+        "characteristic_kr": "",
+        "camp": "",
+        "type": "狙击",
+        "level": 6,
+        "sex": "女",
+        "tags": [
+          "高级资深干员",
+          "远程位",
+          "输出"
+        ],
+        "hidden": false,
+        "globalHidden": false
+      },
+      {
+        "id": "char_147_shining",
+        "name_cn": "闪灵",
+        "name_en": "Shining",
+        "name_jp": "シャイニング",
+        "name_kr": "샤이닝",
+        "characteristic_cn": "恢复友方单位生命",
+        "characteristic_en": "Restore the life of friendly units",
+        "characteristic_jp": "",
+        "characteristic_kr": "",
+        "camp": "罗德岛",
+        "type": "医疗",
+        "level": 6,
+        "sex": "女",
+        "tags": [
+          "高级资深干员",
+          "远程位",
+          "治疗",
+          "支援"
+        ],
+        "hidden": false
+      },
+      {
+        "id": "char_112_siege",
+        "name_cn": "推进之王",
+        "name_en": "Siege",
+        "name_jp": "シージ",
+        "name_kr": "시즈",
+        "characteristic_cn": "能够阻挡两个敌人",
+        "characteristic_en": "Able to block two enemies",
+        "characteristic_jp": "",
+        "characteristic_kr": "",
+        "camp": "维多利亚",
+        "type": "先锋",
+        "level": 6,
+        "sex": "女",
+        "tags": [
+          "高级资深干员",
+          "近战位",
+          "费用回复",
+          "输出"
+        ],
+        "hidden": false
+      },
+      {
+        "id": "char_172_svrash",
+        "name_cn": "银灰",
+        "name_en": "SilverAsh",
+        "name_jp": "シルバーアッシュ",
+        "name_kr": "실버애쉬",
+        "characteristic_cn": "可以进行远程攻击，但此时攻击力降低至80%",
+        "characteristic_en": "Can be used for remote attacks，But at this time the attack power is reduced to 80%.",
+        "characteristic_jp": "",
+        "characteristic_kr": "",
+        "camp": "谢拉格",
+        "type": "近卫",
+        "level": 6,
+        "sex": "男",
+        "tags": [
+          "高级资深干员",
+          "近战位",
+          "输出",
+          "支援"
+        ],
+        "hidden": false
+      },
+      {
+        "id": "char_263_skadi",
+        "name_cn": "斯卡蒂",
+        "name_en": "Skadi",
+        "name_jp": "スカジ",
+        "name_kr": "스카디",
+        "characteristic_cn": "",
+        "characteristic_en": "",
+        "characteristic_jp": "",
+        "characteristic_kr": "",
+        "camp": "",
+        "type": "近卫",
+        "level": 6,
+        "sex": "女",
+        "tags": [
+          "高级资深干员",
+          "近战位",
+          "输出",
+          "生存"
+        ],
+        "hidden": false,
+        "globalHidden": false
+      },
+      {
+        "id": "char_400_weedy",
+        "name_cn": "温蒂",
+        "name_en": "Weedy",
+        "name_jp": "ウィーディ",
+        "name_kr": "위디",
+        "characteristic_cn": "",
+        "characteristic_en": "",
+        "characteristic_jp": "",
+        "characteristic_kr": "",
+        "camp": "",
+        "type": "特种",
+        "level": 6,
+        "sex": "女",
+        "tags": [
+          "高级资深干员",
+          "近战位",
+          "位移",
+          "输出",
+          "控场"
+        ],
+        "hidden": false,
+        "globalHidden": false
+      },
+      {
+        "id": "char_197_poca",
+        "name_cn": "早露",
+        "name_en": "Роса",
+        "name_jp": "ロサ",
+        "name_kr": "로사",
+        "characteristic_cn": "",
+        "characteristic_en": "",
+        "characteristic_jp": "",
+        "characteristic_kr": "",
+        "camp": "",
+        "type": "狙击",
+        "level": 6,
+        "sex": "女",
+        "tags": [
+          "高级资深干员",
+          "远程位",
+          "输出",
+          "控场"
+        ],
+        "hidden": false,
+        "globalHidden": false
+      }
+    ]
+  },
+  {
+    "tags": [
+      "AoE",
+      "Nuker",
+      "Senior Operator"
+    ],
+    "operators": [
+      {
+        "id": "char_373_lionhd",
+        "name_cn": "莱恩哈特",
+        "name_en": "Leonhardt",
+        "name_jp": "レオンハルト",
+        "name_kr": "레온하르트",
+        "characteristic_cn": "",
+        "characteristic_en": "",
+        "characteristic_jp": "",
+        "characteristic_kr": "",
+        "camp": "",
+        "type": "术师",
+        "level": 5,
+        "sex": "男",
+        "tags": [
+          "资深干员",
+          "远程位",
+          "群攻",
+          "爆发"
+        ],
+        "hidden": false,
+        "globalHidden": false
+      }
+    ]
+  },
+  {
+    "tags": [
+      "DPS",
+      "Nuker",
+      "Senior Operator"
+    ],
+    "operators": [
+      {
+        "id": "char_158_milu",
+        "name_cn": "守林人",
+        "name_en": "Firewatch",
+        "name_jp": "ファイヤーウォッチ",
+        "name_kr": "파이어워치",
+        "characteristic_cn": "优先攻击攻击范围内防御力最低的敌方单位",
+        "characteristic_en": "The enemy unit with the lowest defense power within the priority attack range",
+        "characteristic_jp": "",
+        "characteristic_kr": "",
+        "camp": "罗德岛",
+        "type": "狙击",
+        "level": 5,
+        "sex": "女",
+        "tags": [
+          "资深干员",
+          "远程位",
+          "输出",
+          "爆发"
+        ],
+        "hidden": false
+      }
+    ]
+  },
+  {
+    "tags": [
+      "Nuker",
+      "Senior Operator"
+    ],
+    "operators": [
+      {
+        "id": "char_158_milu",
+        "name_cn": "守林人",
+        "name_en": "Firewatch",
+        "name_jp": "ファイヤーウォッチ",
+        "name_kr": "파이어워치",
+        "characteristic_cn": "优先攻击攻击范围内防御力最低的敌方单位",
+        "characteristic_en": "The enemy unit with the lowest defense power within the priority attack range",
+        "characteristic_jp": "",
+        "characteristic_kr": "",
+        "camp": "罗德岛",
+        "type": "狙击",
+        "level": 5,
+        "sex": "女",
+        "tags": [
+          "资深干员",
+          "远程位",
+          "输出",
+          "爆发"
+        ],
+        "hidden": false
+      },
+      {
+        "id": "char_373_lionhd",
+        "name_cn": "莱恩哈特",
+        "name_en": "Leonhardt",
+        "name_jp": "レオンハルト",
+        "name_kr": "레온하르트",
+        "characteristic_cn": "",
+        "characteristic_en": "",
+        "characteristic_jp": "",
+        "characteristic_kr": "",
+        "camp": "",
+        "type": "术师",
+        "level": 5,
+        "sex": "男",
+        "tags": [
+          "资深干员",
+          "远程位",
+          "群攻",
+          "爆发"
+        ],
+        "hidden": false,
+        "globalHidden": false
+      }
+    ]
+  },
+  {
+    "tags": [
+      "AoE",
+      "Senior Operator"
+    ],
+    "operators": [
+      {
+        "id": "char_356_broca",
+        "name_cn": "布洛卡",
+        "name_en": "Broca",
+        "name_jp": "ブローカ",
+        "name_kr": "브로카",
+        "characteristic_cn": "",
+        "characteristic_en": "",
+        "characteristic_jp": "",
+        "characteristic_kr": "",
+        "camp": "",
+        "type": "近卫",
+        "level": 5,
+        "sex": "男",
+        "tags": [
+          "资深干员",
+          "近战位",
+          "群攻",
+          "生存"
+        ],
+        "hidden": false,
+        "globalHidden": false
+      },
+      {
+        "id": "char_279_excu",
+        "name_cn": "送葬人",
+        "name_en": "Executor",
+        "name_jp": "イグゼキュター",
+        "name_kr": "이그제큐터",
+        "characteristic_cn": "",
+        "characteristic_en": "",
+        "characteristic_jp": "",
+        "characteristic_kr": "",
+        "camp": "",
+        "type": "狙击",
+        "level": 5,
+        "sex": "男",
+        "tags": [
+          "资深干员",
+          "远程位",
+          "群攻"
+        ],
+        "hidden": false,
+        "globalHidden": false
+      },
+      {
+        "id": "char_373_lionhd",
+        "name_cn": "莱恩哈特",
+        "name_en": "Leonhardt",
+        "name_jp": "レオンハルト",
+        "name_kr": "레온하르트",
+        "characteristic_cn": "",
+        "characteristic_en": "",
+        "characteristic_jp": "",
+        "characteristic_kr": "",
+        "camp": "",
+        "type": "术师",
+        "level": 5,
+        "sex": "男",
+        "tags": [
+          "资深干员",
+          "远程位",
+          "群攻",
+          "爆发"
+        ],
+        "hidden": false,
+        "globalHidden": false
+      },
+      {
+        "id": "char_219_meteo",
+        "name_cn": "陨星",
+        "name_en": "Meteorite",
+        "name_jp": "メテオリーテ",
+        "name_kr": "메테오라이트",
+        "characteristic_cn": "攻击造成群体物理伤害",
+        "characteristic_en": "Attack causes group physical damage",
+        "characteristic_jp": "",
+        "characteristic_kr": "",
+        "camp": "罗德岛",
+        "type": "狙击",
+        "level": 5,
+        "sex": "女",
+        "tags": [
+          "资深干员",
+          "远程位",
+          "群攻",
+          "削弱"
+        ],
+        "hidden": false
+      },
+      {
+        "id": "char_379_sesa",
+        "name_cn": "慑砂",
+        "name_en": "Sesa",
+        "name_jp": "シェーシャ",
+        "name_kr": "세사",
+        "characteristic_cn": "",
+        "characteristic_en": "",
+        "characteristic_jp": "",
+        "characteristic_kr": "",
+        "camp": "",
+        "type": "狙击",
+        "level": 5,
+        "sex": "男",
+        "tags": [
+          "资深干员",
+          "远程位",
+          "群攻",
+          "削弱"
+        ],
+        "hidden": false,
+        "globalHidden": false
+      },
+      {
+        "id": "char_143_ghost",
+        "name_cn": "幽灵鲨",
+        "name_en": "Specter",
+        "name_jp": "スペクター",
+        "name_kr": "스펙터",
+        "characteristic_cn": "同时攻击阻挡的所有敌人",
+        "characteristic_en": "Attack all enemies blocked at the same time",
+        "characteristic_jp": "",
+        "characteristic_kr": "",
+        "camp": "罗德岛",
+        "type": "近卫",
+        "level": 5,
+        "sex": "女",
+        "tags": [
+          "资深干员",
+          "近战位",
+          "群攻",
+          "生存"
+        ],
+        "hidden": false
+      }
+    ]
+  },
+  {
+    "tags": [
+      "DPS",
+      "Senior Operator"
+    ],
+    "operators": [
+      {
+        "id": "char_378_asbest",
+        "name_cn": "石棉",
+        "name_en": "Asbestos",
+        "name_jp": "アスベストス",
+        "name_kr": "아스베스토스",
+        "characteristic_cn": "",
+        "characteristic_en": "",
+        "characteristic_jp": "",
+        "characteristic_kr": "",
+        "camp": "",
+        "type": "重装",
+        "level": 5,
+        "sex": "女",
+        "tags": [
+          "资深干员",
+          "近战位",
+          "防护",
+          "输出"
+        ],
+        "hidden": false,
+        "globalHidden": false
+      },
+      {
+        "id": "char_274_astesi",
+        "name_cn": "星极",
+        "name_en": "Astesia",
+        "name_jp": "アステシア",
+        "name_kr": "아스테시아",
+        "characteristic_cn": "",
+        "characteristic_en": "",
+        "characteristic_jp": "",
+        "characteristic_kr": "",
+        "camp": "",
+        "type": "近卫",
+        "level": 5,
+        "sex": "女",
+        "tags": [
+          "资深干员",
+          "近战位",
+          "输出",
+          "防护"
+        ],
+        "hidden": false,
+        "globalHidden": false
+      },
+      {
+        "id": "char_129_bluep",
+        "name_cn": "蓝毒",
+        "name_en": "Blue Poison",
+        "name_jp": "アズリウス",
+        "name_kr": "블루포이즌",
+        "characteristic_cn": "优先攻击空中单位",
+        "characteristic_en": "Priority attack air unit",
+        "characteristic_jp": "",
+        "characteristic_kr": "",
+        "camp": "罗德岛",
+        "type": "狙击",
+        "level": 5,
+        "sex": "女",
+        "tags": [
+          "资深干员",
+          "远程位",
+          "输出"
+        ],
+        "hidden": false
+      },
+      {
+        "id": "char_173_slchan",
+        "name_cn": "崖心",
+        "name_en": "Cliffheart",
+        "name_jp": "クリフハート",
+        "name_kr": "클리프하트",
+        "characteristic_cn": "技能可以使敌人产生位移、可以放置于远程位",
+        "characteristic_en": "Skills can make the enemy shift、Can be placed in a remote location",
+        "characteristic_jp": "",
+        "characteristic_kr": "",
+        "camp": "谢拉格",
+        "type": "特种",
+        "level": 5,
+        "sex": "女",
+        "tags": [
+          "资深干员",
+          "近战位",
+          "位移",
+          "输出"
+        ],
+        "hidden": false
+      },
+      {
+        "id": "char_158_milu",
+        "name_cn": "守林人",
+        "name_en": "Firewatch",
+        "name_jp": "ファイヤーウォッチ",
+        "name_kr": "파이어워치",
+        "characteristic_cn": "优先攻击攻击范围内防御力最低的敌方单位",
+        "characteristic_en": "The enemy unit with the lowest defense power within the priority attack range",
+        "characteristic_jp": "",
+        "characteristic_kr": "",
+        "camp": "罗德岛",
+        "type": "狙击",
+        "level": 5,
+        "sex": "女",
+        "tags": [
+          "资深干员",
+          "远程位",
+          "输出",
+          "爆发"
+        ],
+        "hidden": false
+      },
+      {
+        "id": "char_367_swllow",
+        "name_cn": "灰喉",
+        "name_en": "GreyThroat",
+        "name_jp": "グレースロート",
+        "name_kr": "그레이스롯",
+        "characteristic_cn": "",
+        "characteristic_en": "",
+        "characteristic_jp": "",
+        "characteristic_kr": "",
+        "camp": "",
+        "type": "狙击",
+        "level": 5,
+        "sex": "女",
+        "tags": [
+          "资深干员",
+          "远程位",
+          "输出"
+        ],
+        "hidden": false,
+        "globalHidden": false
+      },
+      {
+        "id": "char_155_tiger",
+        "name_cn": "因陀罗",
+        "name_en": "Indra",
+        "name_jp": "インドラ",
+        "name_kr": "인드라",
+        "characteristic_cn": "能够阻挡一个敌人",
+        "characteristic_en": "Able to block an enemy",
+        "characteristic_jp": "",
+        "characteristic_kr": "",
+        "camp": "维多利亚",
+        "type": "近卫",
+        "level": 5,
+        "sex": "女",
+        "tags": [
+          "资深干员",
+          "近战位",
+          "输出",
+          "生存"
+        ],
+        "hidden": false
+      },
+      {
+        "id": "char_306_leizi",
+        "name_cn": "惊蛰",
+        "name_en": "Leizi",
+        "name_jp": "レイズ",
+        "name_kr": "레이즈",
+        "characteristic_cn": "",
+        "characteristic_en": "",
+        "characteristic_jp": "",
+        "characteristic_kr": "",
+        "camp": "",
+        "type": "术师",
+        "level": 5,
+        "sex": "女",
+        "tags": [
+          "资深干员",
+          "远程位",
+          "输出"
+        ],
+        "hidden": false,
+        "globalHidden": false
+      },
+      {
+        "id": "char_107_liskam",
+        "name_cn": "雷蛇",
+        "name_en": "Liskarm",
+        "name_jp": "リスカム",
+        "name_kr": "리스캄",
+        "characteristic_cn": "能够阻挡三个敌人",
+        "characteristic_en": "Able to block three enemies",
+        "characteristic_jp": "",
+        "characteristic_kr": "",
+        "camp": "黑钢国际",
+        "type": "重装",
+        "level": 5,
+        "sex": "女",
+        "tags": [
+          "资深干员",
+          "近战位",
+          "防护",
+          "输出"
+        ],
+        "hidden": false
+      },
+      {
+        "id": "char_215_mantic",
+        "name_cn": "狮蝎",
+        "name_en": "Manticore",
+        "name_jp": "マンティコア",
+        "name_kr": "맨티코어",
+        "characteristic_cn": "对攻击范围内所有敌人造成伤害、拥有50%的物理和法术闪避且不容易成为敌人的攻击目标",
+        "characteristic_en": "Inflicts damage to all enemies within the attack range、Has 50% physical and spell dodge and is not easy to become an enemy target",
+        "characteristic_jp": "",
+        "characteristic_kr": "",
+        "camp": "罗德岛",
+        "type": "特种",
+        "level": 5,
+        "sex": "女",
+        "tags": [
+          "资深干员",
+          "近战位",
+          "输出",
+          "生存"
+        ],
+        "hidden": false
+      },
+      {
+        "id": "char_164_nightm",
+        "name_cn": "夜魔",
+        "name_en": "Nightmare",
+        "name_jp": "ナイトメア",
+        "name_kr": "나이트메어",
+        "characteristic_cn": "攻击造成法术伤害",
+        "characteristic_en": "Attack causes spell damage",
+        "characteristic_jp": "",
+        "characteristic_kr": "",
+        "camp": "维多利亚",
+        "type": "术师",
+        "level": 5,
+        "sex": "女",
+        "tags": [
+          "资深干员",
+          "远程位",
+          "输出",
+          "治疗",
+          "减速"
+        ],
+        "hidden": false,
+        "globalHidden": false
+      },
+      {
+        "id": "char_204_platnm",
+        "name_cn": "白金",
+        "name_en": "Platinum",
+        "name_jp": "プラチナ",
+        "name_kr": "플래티넘",
+        "characteristic_cn": "优先攻击空中单位",
+        "characteristic_en": "Priority attack air unit",
+        "characteristic_jp": "",
+        "characteristic_kr": "",
+        "camp": "卡西米尔",
+        "type": "狙击",
+        "level": 5,
+        "sex": "女",
+        "tags": [
+          "资深干员",
+          "远程位",
+          "输出"
+        ],
+        "hidden": false
+      },
+      {
+        "id": "char_145_prove",
+        "name_cn": "普罗旺斯",
+        "name_en": "Provence",
+        "name_jp": "プロヴァンス",
+        "name_kr": "프로방스",
+        "characteristic_cn": "高精度的近距离射击",
+        "characteristic_en": "High precision close range shooting",
+        "characteristic_jp": "",
+        "characteristic_kr": "",
+        "camp": "罗德岛",
+        "type": "狙击",
+        "level": 5,
+        "sex": "女",
+        "tags": [
+          "资深干员",
+          "远程位",
+          "输出"
+        ],
+        "hidden": false
+      },
+      {
+        "id": "char_261_sddrag",
+        "name_cn": "苇草",
+        "name_en": "Reed",
+        "name_jp": "リード",
+        "name_kr": "리드",
+        "characteristic_cn": "",
+        "characteristic_en": "",
+        "characteristic_jp": "",
+        "characteristic_kr": "",
+        "camp": "",
+        "type": "先锋",
+        "level": 5,
+        "sex": "女",
+        "tags": [
+          "资深干员",
+          "近战位",
+          "费用回复",
+          "输出"
+        ],
+        "hidden": false,
+        "globalHidden": false
+      },
+      {
+        "id": "char_308_swire",
+        "name_cn": "诗怀雅",
+        "name_en": "Swire",
+        "name_jp": "スワイヤー",
+        "name_kr": "스와이어",
+        "characteristic_cn": "",
+        "characteristic_en": "",
+        "characteristic_jp": "",
+        "characteristic_kr": "",
+        "camp": "",
+        "type": "近卫",
+        "level": 5,
+        "sex": "女",
+        "tags": [
+          "资深干员",
+          "近战位",
+          "输出",
+          "支援"
+        ],
+        "hidden": false,
+        "globalHidden": false
+      },
+      {
+        "id": "char_163_hpsts",
+        "name_cn": "火神",
+        "name_en": "Vulcan",
+        "name_jp": "ヴァルカン",
+        "name_kr": "벌컨",
+        "characteristic_cn": "无法被友方角色治疗",
+        "characteristic_en": "Unable to be treated by friendly role",
+        "characteristic_jp": "",
+        "characteristic_kr": "",
+        "camp": "罗德岛",
+        "type": "重装",
+        "level": 5,
+        "sex": "女",
+        "tags": [
+          "资深干员",
+          "近战位",
+          "生存",
+          "防护",
+          "输出"
+        ],
+        "hidden": false
+      },
+      {
+        "id": "char_195_glassb",
+        "name_cn": "真理",
+        "name_en": "Истина",
+        "name_jp": "イースチナ",
+        "name_kr": "이스티나",
+        "characteristic_cn": "攻击造成法术伤害，并对敌人造成短暂的停顿",
+        "characteristic_en": "Attack causes spell damage，And cause a short pause to the enemy",
+        "characteristic_jp": "",
+        "characteristic_kr": "",
+        "camp": "乌萨斯",
+        "type": "辅助",
+        "level": 5,
+        "sex": "女",
+        "tags": [
+          "资深干员",
+          "远程位",
+          "减速",
+          "输出"
+        ],
+        "hidden": false
+      }
+    ]
+  },
+  {
+    "tags": [
+      "Senior Operator"
+    ],
+    "operators": [
+      {
+        "id": "char_378_asbest",
+        "name_cn": "石棉",
+        "name_en": "Asbestos",
+        "name_jp": "アスベストス",
+        "name_kr": "아스베스토스",
+        "characteristic_cn": "",
+        "characteristic_en": "",
+        "characteristic_jp": "",
+        "characteristic_kr": "",
+        "camp": "",
+        "type": "重装",
+        "level": 5,
+        "sex": "女",
+        "tags": [
+          "资深干员",
+          "近战位",
+          "防护",
+          "输出"
+        ],
+        "hidden": false,
+        "globalHidden": false
+      },
+      {
+        "id": "char_274_astesi",
+        "name_cn": "星极",
+        "name_en": "Astesia",
+        "name_jp": "アステシア",
+        "name_kr": "아스테시아",
+        "characteristic_cn": "",
+        "characteristic_en": "",
+        "characteristic_jp": "",
+        "characteristic_kr": "",
+        "camp": "",
+        "type": "近卫",
+        "level": 5,
+        "sex": "女",
+        "tags": [
+          "资深干员",
+          "近战位",
+          "输出",
+          "防护"
+        ],
+        "hidden": false,
+        "globalHidden": false
+      },
+      {
+        "id": "char_129_bluep",
+        "name_cn": "蓝毒",
+        "name_en": "Blue Poison",
+        "name_jp": "アズリウス",
+        "name_kr": "블루포이즌",
+        "characteristic_cn": "优先攻击空中单位",
+        "characteristic_en": "Priority attack air unit",
+        "characteristic_jp": "",
+        "characteristic_kr": "",
+        "camp": "罗德岛",
+        "type": "狙击",
+        "level": 5,
+        "sex": "女",
+        "tags": [
+          "资深干员",
+          "远程位",
+          "输出"
+        ],
+        "hidden": false
+      },
+      {
+        "id": "char_356_broca",
+        "name_cn": "布洛卡",
+        "name_en": "Broca",
+        "name_jp": "ブローカ",
+        "name_kr": "브로카",
+        "characteristic_cn": "",
+        "characteristic_en": "",
+        "characteristic_jp": "",
+        "characteristic_kr": "",
+        "camp": "",
+        "type": "近卫",
+        "level": 5,
+        "sex": "男",
+        "tags": [
+          "资深干员",
+          "近战位",
+          "群攻",
+          "生存"
+        ],
+        "hidden": false,
+        "globalHidden": false
+      },
+      {
+        "id": "char_173_slchan",
+        "name_cn": "崖心",
+        "name_en": "Cliffheart",
+        "name_jp": "クリフハート",
+        "name_kr": "클리프하트",
+        "characteristic_cn": "技能可以使敌人产生位移、可以放置于远程位",
+        "characteristic_en": "Skills can make the enemy shift、Can be placed in a remote location",
+        "characteristic_jp": "",
+        "characteristic_kr": "",
+        "camp": "谢拉格",
+        "type": "特种",
+        "level": 5,
+        "sex": "女",
+        "tags": [
+          "资深干员",
+          "近战位",
+          "位移",
+          "输出"
+        ],
+        "hidden": false
+      },
+      {
+        "id": "char_201_moeshd",
+        "name_cn": "可颂",
+        "name_en": "Croissant",
+        "name_jp": "クロワッサン",
+        "name_kr": "크루아상",
+        "characteristic_cn": "能够阻挡三个敌人",
+        "characteristic_en": "Able to block three enemies",
+        "characteristic_jp": "",
+        "characteristic_kr": "",
+        "camp": "企鹅物流",
+        "type": "重装",
+        "level": 5,
+        "sex": "女",
+        "tags": [
+          "资深干员",
+          "近战位",
+          "防护",
+          "位移"
+        ],
+        "hidden": false
+      },
+      {
+        "id": "char_401_elysm",
+        "name_cn": "极境",
+        "name_en": "Elysium",
+        "name_jp": "エリジウム",
+        "name_kr": "엘리시움",
+        "characteristic_cn": "",
+        "characteristic_en": "",
+        "characteristic_jp": "",
+        "characteristic_kr": "",
+        "camp": "",
+        "type": "先锋",
+        "level": 5,
+        "sex": "男",
+        "tags": [
+          "资深干员",
+          "近战位",
+          "费用回复",
+          "支援"
+        ],
+        "hidden": false,
+        "globalHidden": false
+      },
+      {
+        "id": "char_279_excu",
+        "name_cn": "送葬人",
+        "name_en": "Executor",
+        "name_jp": "イグゼキュター",
+        "name_kr": "이그제큐터",
+        "characteristic_cn": "",
+        "characteristic_en": "",
+        "characteristic_jp": "",
+        "characteristic_kr": "",
+        "camp": "",
+        "type": "狙击",
+        "level": 5,
+        "sex": "男",
+        "tags": [
+          "资深干员",
+          "远程位",
+          "群攻"
+        ],
+        "hidden": false,
+        "globalHidden": false
+      },
+      {
+        "id": "char_241_panda",
+        "name_cn": "食铁兽",
+        "name_en": "FEater",
+        "name_jp": "エフイーター",
+        "name_kr": "에프이터",
+        "characteristic_cn": "同时攻击阻挡的所有敌人、可以放置于远程位",
+        "characteristic_en": "Attack all enemies blocked at the same time、Can be placed in a remote location",
+        "characteristic_jp": "",
+        "characteristic_kr": "",
+        "camp": "罗德岛",
+        "type": "特种",
+        "level": 5,
+        "sex": "女",
+        "tags": [
+          "资深干员",
+          "近战位",
+          "位移",
+          "减速"
+        ],
+        "hidden": false
+      },
+      {
+        "id": "char_158_milu",
+        "name_cn": "守林人",
+        "name_en": "Firewatch",
+        "name_jp": "ファイヤーウォッチ",
+        "name_kr": "파이어워치",
+        "characteristic_cn": "优先攻击攻击范围内防御力最低的敌方单位",
+        "characteristic_en": "The enemy unit with the lowest defense power within the priority attack range",
+        "characteristic_jp": "",
+        "characteristic_kr": "",
+        "camp": "罗德岛",
+        "type": "狙击",
+        "level": 5,
+        "sex": "女",
+        "tags": [
+          "资深干员",
+          "远程位",
+          "输出",
+          "爆发"
+        ],
+        "hidden": false
+      },
+      {
+        "id": "char_326_glacus",
+        "name_cn": "格劳克斯",
+        "name_en": "Glaucus",
+        "name_jp": "グラウコス",
+        "name_kr": "글라우쿠스",
+        "characteristic_cn": "",
+        "characteristic_en": "",
+        "characteristic_jp": "",
+        "characteristic_kr": "",
+        "camp": "",
+        "type": "辅助",
+        "level": 5,
+        "sex": "女",
+        "tags": [
+          "资深干员",
+          "远程位",
+          "减速",
+          "控场"
+        ],
+        "hidden": false,
+        "globalHidden": false
+      },
+      {
+        "id": "char_367_swllow",
+        "name_cn": "灰喉",
+        "name_en": "GreyThroat",
+        "name_jp": "グレースロート",
+        "name_kr": "그레이스롯",
+        "characteristic_cn": "",
+        "characteristic_en": "",
+        "characteristic_jp": "",
+        "characteristic_kr": "",
+        "camp": "",
+        "type": "狙击",
+        "level": 5,
+        "sex": "女",
+        "tags": [
+          "资深干员",
+          "远程位",
+          "输出"
+        ],
+        "hidden": false,
+        "globalHidden": false
+      },
+      {
+        "id": "char_226_hmau",
+        "name_cn": "吽",
+        "name_en": "Hung",
+        "name_jp": "ウン",
+        "name_kr": "훔",
+        "characteristic_cn": "",
+        "characteristic_en": "",
+        "characteristic_jp": "",
+        "characteristic_kr": "",
+        "camp": "",
+        "type": "重装",
+        "level": 5,
+        "sex": "男",
+        "tags": [
+          "资深干员",
+          "近战位",
+          "防护",
+          "治疗"
+        ],
+        "hidden": false,
+        "globalHidden": false
+      },
+      {
+        "id": "char_155_tiger",
+        "name_cn": "因陀罗",
+        "name_en": "Indra",
+        "name_jp": "インドラ",
+        "name_kr": "인드라",
+        "characteristic_cn": "能够阻挡一个敌人",
+        "characteristic_en": "Able to block an enemy",
+        "characteristic_jp": "",
+        "characteristic_kr": "",
+        "camp": "维多利亚",
+        "type": "近卫",
+        "level": 5,
+        "sex": "女",
+        "tags": [
+          "资深干员",
+          "近战位",
+          "输出",
+          "生存"
+        ],
+        "hidden": false
+      },
+      {
+        "id": "char_306_leizi",
+        "name_cn": "惊蛰",
+        "name_en": "Leizi",
+        "name_jp": "レイズ",
+        "name_kr": "레이즈",
+        "characteristic_cn": "",
+        "characteristic_en": "",
+        "characteristic_jp": "",
+        "characteristic_kr": "",
+        "camp": "",
+        "type": "术师",
+        "level": 5,
+        "sex": "女",
+        "tags": [
+          "资深干员",
+          "远程位",
+          "输出"
+        ],
+        "hidden": false,
+        "globalHidden": false
+      },
+      {
+        "id": "char_373_lionhd",
+        "name_cn": "莱恩哈特",
+        "name_en": "Leonhardt",
+        "name_jp": "レオンハルト",
+        "name_kr": "레온하르트",
+        "characteristic_cn": "",
+        "characteristic_en": "",
+        "characteristic_jp": "",
+        "characteristic_kr": "",
+        "camp": "",
+        "type": "术师",
+        "level": 5,
+        "sex": "男",
+        "tags": [
+          "资深干员",
+          "远程位",
+          "群攻",
+          "爆发"
+        ],
+        "hidden": false,
+        "globalHidden": false
+      },
+      {
+        "id": "char_107_liskam",
+        "name_cn": "雷蛇",
+        "name_en": "Liskarm",
+        "name_jp": "リスカム",
+        "name_kr": "리스캄",
+        "characteristic_cn": "能够阻挡三个敌人",
+        "characteristic_en": "Able to block three enemies",
+        "characteristic_jp": "",
+        "characteristic_kr": "",
+        "camp": "黑钢国际",
+        "type": "重装",
+        "level": 5,
+        "sex": "女",
+        "tags": [
+          "资深干员",
+          "近战位",
+          "防护",
+          "输出"
+        ],
+        "hidden": false
+      },
+      {
+        "id": "char_215_mantic",
+        "name_cn": "狮蝎",
+        "name_en": "Manticore",
+        "name_jp": "マンティコア",
+        "name_kr": "맨티코어",
+        "characteristic_cn": "对攻击范围内所有敌人造成伤害、拥有50%的物理和法术闪避且不容易成为敌人的攻击目标",
+        "characteristic_en": "Inflicts damage to all enemies within the attack range、Has 50% physical and spell dodge and is not easy to become an enemy target",
+        "characteristic_jp": "",
+        "characteristic_kr": "",
+        "camp": "罗德岛",
+        "type": "特种",
+        "level": 5,
+        "sex": "女",
+        "tags": [
+          "资深干员",
+          "近战位",
+          "输出",
+          "生存"
+        ],
+        "hidden": false
+      },
+      {
+        "id": "char_242_otter",
+        "name_cn": "梅尔",
+        "name_en": "Mayer",
+        "name_jp": "メイヤー",
+        "name_kr": "메이어",
+        "characteristic_cn": "攻击造成魔法伤害、可以使用召唤物协助作战",
+        "characteristic_en": "Attack causes magic damage、The summons can be used to assist in combat",
+        "characteristic_jp": "",
+        "characteristic_kr": "",
+        "camp": "莱茵生命实验室",
+        "type": "辅助",
+        "level": 5,
+        "sex": "女",
+        "tags": [
+          "资深干员",
+          "远程位",
+          "召唤",
+          "控场"
+        ],
+        "hidden": false
+      },
+      {
+        "id": "char_219_meteo",
+        "name_cn": "陨星",
+        "name_en": "Meteorite",
+        "name_jp": "メテオリーテ",
+        "name_kr": "메테오라이트",
+        "characteristic_cn": "攻击造成群体物理伤害",
+        "characteristic_en": "Attack causes group physical damage",
+        "characteristic_jp": "",
+        "characteristic_kr": "",
+        "camp": "罗德岛",
+        "type": "狙击",
+        "level": 5,
+        "sex": "女",
+        "tags": [
+          "资深干员",
+          "远程位",
+          "群攻",
+          "削弱"
+        ],
+        "hidden": false
+      },
+      {
+        "id": "char_148_nearl",
+        "name_cn": "临光",
+        "name_en": "Nearl",
+        "name_jp": "ニアール",
+        "name_kr": "니어",
+        "characteristic_cn": "技能可以治疗友方单位",
+        "characteristic_en": "Skills can treat friendly units",
+        "characteristic_jp": "",
+        "characteristic_kr": "",
+        "camp": "罗德岛",
+        "type": "重装",
+        "level": 5,
+        "sex": "女",
+        "tags": [
+          "资深干员",
+          "近战位",
+          "防护",
+          "治疗"
+        ],
+        "hidden": false
+      },
+      {
+        "id": "char_164_nightm",
+        "name_cn": "夜魔",
+        "name_en": "Nightmare",
+        "name_jp": "ナイトメア",
+        "name_kr": "나이트메어",
+        "characteristic_cn": "攻击造成法术伤害",
+        "characteristic_en": "Attack causes spell damage",
+        "characteristic_jp": "",
+        "characteristic_kr": "",
+        "camp": "维多利亚",
+        "type": "术师",
+        "level": 5,
+        "sex": "女",
+        "tags": [
+          "资深干员",
+          "远程位",
+          "输出",
+          "治疗",
+          "减速"
+        ],
+        "hidden": false,
+        "globalHidden": false
+      },
+      {
+        "id": "char_204_platnm",
+        "name_cn": "白金",
+        "name_en": "Platinum",
+        "name_jp": "プラチナ",
+        "name_kr": "플래티넘",
+        "characteristic_cn": "优先攻击空中单位",
+        "characteristic_en": "Priority attack air unit",
+        "characteristic_jp": "",
+        "characteristic_kr": "",
+        "camp": "卡西米尔",
+        "type": "狙击",
+        "level": 5,
+        "sex": "女",
+        "tags": [
+          "资深干员",
+          "远程位",
+          "输出"
+        ],
+        "hidden": false
+      },
+      {
+        "id": "char_174_slbell",
+        "name_cn": "初雪",
+        "name_en": "Pramanix",
+        "name_jp": "プラマニクス",
+        "name_kr": "프라마닉스",
+        "characteristic_cn": "攻击造成魔法伤害",
+        "characteristic_en": "Attack causes magic damage",
+        "characteristic_jp": "",
+        "characteristic_kr": "",
+        "camp": "谢拉格",
+        "type": "辅助",
+        "level": 5,
+        "sex": "女",
+        "tags": [
+          "资深干员",
+          "远程位",
+          "削弱"
+        ],
+        "hidden": false
+      },
+      {
+        "id": "char_144_red",
+        "name_cn": "红",
+        "name_en": "Projekt Red",
+        "name_jp": "レッド",
+        "name_kr": "레드",
+        "characteristic_cn": "再部署时间大幅减少",
+        "characteristic_en": "Redeployment time is greatly reduced",
+        "characteristic_jp": "",
+        "characteristic_kr": "",
+        "camp": "罗德岛",
+        "type": "特种",
+        "level": 5,
+        "sex": "女",
+        "tags": [
+          "资深干员",
+          "近战位",
+          "快速复活",
+          "控场"
+        ],
+        "hidden": false
+      },
+      {
+        "id": "char_145_prove",
+        "name_cn": "普罗旺斯",
+        "name_en": "Provence",
+        "name_jp": "プロヴァンス",
+        "name_kr": "프로방스",
+        "characteristic_cn": "高精度的近距离射击",
+        "characteristic_en": "High precision close range shooting",
+        "characteristic_jp": "",
+        "characteristic_kr": "",
+        "camp": "罗德岛",
+        "type": "狙击",
+        "level": 5,
+        "sex": "女",
+        "tags": [
+          "资深干员",
+          "远程位",
+          "输出"
+        ],
+        "hidden": false
+      },
+      {
+        "id": "char_128_plosis",
+        "name_cn": "白面鸮",
+        "name_en": "Ptilopsis",
+        "name_jp": "フィリオプシス",
+        "name_kr": "프틸롭시스",
+        "characteristic_cn": "同时恢复三个友方单位的生命",
+        "characteristic_en": "Restore the lives of three friendly units at the same time",
+        "characteristic_jp": "",
+        "characteristic_kr": "",
+        "camp": "莱茵生命实验室",
+        "type": "医疗",
+        "level": 5,
+        "sex": "女",
+        "tags": [
+          "资深干员",
+          "远程位",
+          "治疗",
+          "支援"
+        ],
+        "hidden": false
+      },
+      {
+        "id": "char_261_sddrag",
+        "name_cn": "苇草",
+        "name_en": "Reed",
+        "name_jp": "リード",
+        "name_kr": "리드",
+        "characteristic_cn": "",
+        "characteristic_en": "",
+        "characteristic_jp": "",
+        "characteristic_kr": "",
+        "camp": "",
+        "type": "先锋",
+        "level": 5,
+        "sex": "女",
+        "tags": [
+          "资深干员",
+          "近战位",
+          "费用回复",
+          "输出"
+        ],
+        "hidden": false,
+        "globalHidden": false
+      },
+      {
+        "id": "char_379_sesa",
+        "name_cn": "慑砂",
+        "name_en": "Sesa",
+        "name_jp": "シェーシャ",
+        "name_kr": "세사",
+        "characteristic_cn": "",
+        "characteristic_en": "",
+        "characteristic_jp": "",
+        "characteristic_kr": "",
+        "camp": "",
+        "type": "狙击",
+        "level": 5,
+        "sex": "男",
+        "tags": [
+          "资深干员",
+          "远程位",
+          "群攻",
+          "削弱"
+        ],
+        "hidden": false,
+        "globalHidden": false
+      },
+      {
+        "id": "char_254_vodfox",
+        "name_cn": "巫恋",
+        "name_en": "Shamare",
+        "name_jp": "シャマレ",
+        "name_kr": "샤마르",
+        "characteristic_cn": "",
+        "characteristic_en": "",
+        "characteristic_jp": "",
+        "characteristic_kr": "",
+        "camp": "",
+        "type": "辅助",
+        "level": 5,
+        "sex": "女",
+        "tags": [
+          "资深干员",
+          "远程位",
+          "削弱"
+        ],
+        "hidden": false,
+        "globalHidden": false
+      },
+      {
+        "id": "char_108_silent",
+        "name_cn": "赫默",
+        "name_en": "Silence",
+        "name_jp": "サイレンス",
+        "name_kr": "사일런스",
+        "characteristic_cn": "恢复友方单位生命",
+        "characteristic_en": "Restore the life of friendly units",
+        "characteristic_jp": "",
+        "characteristic_kr": "",
+        "camp": "莱茵生命实验室",
+        "type": "医疗",
+        "level": 5,
+        "sex": "女",
+        "tags": [
+          "资深干员",
+          "远程位",
+          "治疗"
+        ],
+        "hidden": false
+      },
+      {
+        "id": "char_143_ghost",
+        "name_cn": "幽灵鲨",
+        "name_en": "Specter",
+        "name_jp": "スペクター",
+        "name_kr": "스펙터",
+        "characteristic_cn": "同时攻击阻挡的所有敌人",
+        "characteristic_en": "Attack all enemies blocked at the same time",
+        "characteristic_jp": "",
+        "characteristic_kr": "",
+        "camp": "罗德岛",
+        "type": "近卫",
+        "level": 5,
+        "sex": "女",
+        "tags": [
+          "资深干员",
+          "近战位",
+          "群攻",
+          "生存"
+        ],
+        "hidden": false
+      },
+      {
+        "id": "char_308_swire",
+        "name_cn": "诗怀雅",
+        "name_en": "Swire",
+        "name_jp": "スワイヤー",
+        "name_kr": "스와이어",
+        "characteristic_cn": "",
+        "characteristic_en": "",
+        "characteristic_jp": "",
+        "characteristic_kr": "",
+        "camp": "",
+        "type": "近卫",
+        "level": 5,
+        "sex": "女",
+        "tags": [
+          "资深干员",
+          "近战位",
+          "输出",
+          "支援"
+        ],
+        "hidden": false,
+        "globalHidden": false
+      },
+      {
+        "id": "char_102_texas",
+        "name_cn": "德克萨斯",
+        "name_en": "Texas",
+        "name_jp": "テキサス",
+        "name_kr": "텍사스",
+        "characteristic_cn": "能够阻挡两个敌人",
+        "characteristic_en": "Able to block two enemies",
+        "characteristic_jp": "",
+        "characteristic_kr": "",
+        "camp": "企鹅物流",
+        "type": "先锋",
+        "level": 5,
+        "sex": "女",
+        "tags": [
+          "资深干员",
+          "近战位",
+          "费用回复",
+          "控场"
+        ],
+        "hidden": false
+      },
+      {
+        "id": "char_343_tknogi",
+        "name_cn": "月禾",
+        "name_en": "Tsukinogi",
+        "name_jp": "ツキノギ",
+        "name_kr": "츠키노기",
+        "characteristic_cn": "",
+        "characteristic_en": "",
+        "characteristic_jp": "",
+        "characteristic_kr": "",
+        "camp": "",
+        "type": "辅助",
+        "level": 5,
+        "sex": "女",
+        "tags": [
+          "资深干员",
+          "远程位",
+          "支援",
+          "生存"
+        ],
+        "hidden": false,
+        "globalHidden": false
+      },
+      {
+        "id": "char_163_hpsts",
+        "name_cn": "火神",
+        "name_en": "Vulcan",
+        "name_jp": "ヴァルカン",
+        "name_kr": "벌컨",
+        "characteristic_cn": "无法被友方角色治疗",
+        "characteristic_en": "Unable to be treated by friendly role",
+        "characteristic_jp": "",
+        "characteristic_kr": "",
+        "camp": "罗德岛",
+        "type": "重装",
+        "level": 5,
+        "sex": "女",
+        "tags": [
+          "资深干员",
+          "近战位",
+          "生存",
+          "防护",
+          "输出"
+        ],
+        "hidden": false
+      },
+      {
+        "id": "char_243_waaifu",
+        "name_cn": "槐琥",
+        "name_en": "Waai Fu",
+        "name_jp": "ワイフー",
+        "name_kr": "와이후",
+        "characteristic_cn": "",
+        "characteristic_en": "",
+        "characteristic_jp": "",
+        "characteristic_kr": "",
+        "camp": "",
+        "type": "特种",
+        "level": 5,
+        "sex": "女",
+        "tags": [
+          "资深干员",
+          "近战位",
+          "快速复活",
+          "削弱"
+        ],
+        "hidden": false,
+        "globalHidden": false
+      },
+      {
+        "id": "char_171_bldsk",
+        "name_cn": "华法琳",
+        "name_en": "Warfarin",
+        "name_jp": "ワルファリン",
+        "name_kr": "와파린",
+        "characteristic_cn": "恢复友方单位生命",
+        "characteristic_en": "Restore the life of friendly units",
+        "characteristic_jp": "",
+        "characteristic_kr": "",
+        "camp": "罗德岛",
+        "type": "医疗",
+        "level": 5,
+        "sex": "女",
+        "tags": [
+          "资深干员",
+          "远程位",
+          "治疗",
+          "支援"
+        ],
+        "hidden": false
+      },
+      {
+        "id": "char_115_headbr",
+        "name_cn": "凛冬",
+        "name_en": "Зима",
+        "name_jp": "ズィマー",
+        "name_kr": "지마",
+        "characteristic_cn": "能够阻挡两个敌人",
+        "characteristic_en": "Able to block two enemies",
+        "characteristic_jp": "",
+        "characteristic_kr": "",
+        "camp": "乌萨斯",
+        "type": "先锋",
+        "level": 5,
+        "sex": "女",
+        "tags": [
+          "资深干员",
+          "近战位",
+          "费用回复",
+          "支援"
+        ],
+        "hidden": false
+      },
+      {
+        "id": "char_195_glassb",
+        "name_cn": "真理",
+        "name_en": "Истина",
+        "name_jp": "イースチナ",
+        "name_kr": "이스티나",
+        "characteristic_cn": "攻击造成法术伤害，并对敌人造成短暂的停顿",
+        "characteristic_en": "Attack causes spell damage，And cause a short pause to the enemy",
+        "characteristic_jp": "",
+        "characteristic_kr": "",
+        "camp": "乌萨斯",
+        "type": "辅助",
+        "level": 5,
+        "sex": "女",
+        "tags": [
+          "资深干员",
+          "远程位",
+          "减速",
+          "输出"
+        ],
+        "hidden": false
+      }
+    ]
+  },
+  {
+    "tags": [
+      "AoE",
+      "Nuker"
+    ],
+    "operators": [
+      {
+        "id": "char_373_lionhd",
+        "name_cn": "莱恩哈特",
+        "name_en": "Leonhardt",
+        "name_jp": "レオンハルト",
+        "name_kr": "레온하르트",
+        "characteristic_cn": "",
+        "characteristic_en": "",
+        "characteristic_jp": "",
+        "characteristic_kr": "",
+        "camp": "",
+        "type": "术师",
+        "level": 5,
+        "sex": "男",
+        "tags": [
+          "资深干员",
+          "远程位",
+          "群攻",
+          "爆发"
+        ],
+        "hidden": false,
+        "globalHidden": false
+      }
+    ]
+  },
+  {
+    "tags": [
+      "DPS",
+      "Nuker"
+    ],
+    "operators": [
+      {
+        "id": "char_158_milu",
+        "name_cn": "守林人",
+        "name_en": "Firewatch",
+        "name_jp": "ファイヤーウォッチ",
+        "name_kr": "파이어워치",
+        "characteristic_cn": "优先攻击攻击范围内防御力最低的敌方单位",
+        "characteristic_en": "The enemy unit with the lowest defense power within the priority attack range",
+        "characteristic_jp": "",
+        "characteristic_kr": "",
+        "camp": "罗德岛",
+        "type": "狙击",
+        "level": 5,
+        "sex": "女",
+        "tags": [
+          "资深干员",
+          "远程位",
+          "输出",
+          "爆发"
+        ],
+        "hidden": false
+      },
+      {
+        "id": "char_301_cutter",
+        "name_cn": "刻刀",
+        "name_en": "Cutter",
+        "name_jp": "カッター",
+        "name_kr": "커터",
+        "characteristic_cn": "",
+        "characteristic_en": "",
+        "characteristic_jp": "",
+        "characteristic_kr": "",
+        "camp": "",
+        "type": "近卫",
+        "level": 4,
+        "sex": "女",
+        "tags": [
+          "近战位",
+          "爆发",
+          "输出"
+        ],
+        "hidden": false,
+        "globalHidden": false
+      }
+    ]
+  },
+  {
+    "tags": [
+      "Nuker"
+    ],
+    "operators": [
+      {
+        "id": "char_158_milu",
+        "name_cn": "守林人",
+        "name_en": "Firewatch",
+        "name_jp": "ファイヤーウォッチ",
+        "name_kr": "파이어워치",
+        "characteristic_cn": "优先攻击攻击范围内防御力最低的敌方单位",
+        "characteristic_en": "The enemy unit with the lowest defense power within the priority attack range",
+        "characteristic_jp": "",
+        "characteristic_kr": "",
+        "camp": "罗德岛",
+        "type": "狙击",
+        "level": 5,
+        "sex": "女",
+        "tags": [
+          "资深干员",
+          "远程位",
+          "输出",
+          "爆发"
+        ],
+        "hidden": false
+      },
+      {
+        "id": "char_373_lionhd",
+        "name_cn": "莱恩哈特",
+        "name_en": "Leonhardt",
+        "name_jp": "レオンハルト",
+        "name_kr": "레온하르트",
+        "characteristic_cn": "",
+        "characteristic_en": "",
+        "characteristic_jp": "",
+        "characteristic_kr": "",
+        "camp": "",
+        "type": "术师",
+        "level": 5,
+        "sex": "男",
+        "tags": [
+          "资深干员",
+          "远程位",
+          "群攻",
+          "爆发"
+        ],
+        "hidden": false,
+        "globalHidden": false
+      },
+      {
+        "id": "char_301_cutter",
+        "name_cn": "刻刀",
+        "name_en": "Cutter",
+        "name_jp": "カッター",
+        "name_kr": "커터",
+        "characteristic_cn": "",
+        "characteristic_en": "",
+        "characteristic_jp": "",
+        "characteristic_kr": "",
+        "camp": "",
+        "type": "近卫",
+        "level": 4,
+        "sex": "女",
+        "tags": [
+          "近战位",
+          "爆发",
+          "输出"
+        ],
+        "hidden": false,
+        "globalHidden": false
+      },
+      {
+        "id": "char_376_therex",
+        "name_cn": "THRM-EX",
+        "name_en": "Thermal-EX",
+        "name_jp": "THRM-EX",
+        "name_kr": "THRM-EX",
+        "characteristic_cn": "",
+        "characteristic_en": "",
+        "characteristic_jp": "",
+        "characteristic_kr": "",
+        "camp": "",
+        "type": "特种",
+        "level": 1,
+        "sex": "男",
+        "tags": [
+          "支援机械",
+          "近战位",
+          "支援机械",
+          "爆发"
+        ],
+        "hidden": false,
+        "globalHidden": false
+      }
+    ]
+  },
+  {
+    "tags": [
+      "AoE"
+    ],
+    "operators": [
+      {
+        "id": "char_356_broca",
+        "name_cn": "布洛卡",
+        "name_en": "Broca",
+        "name_jp": "ブローカ",
+        "name_kr": "브로카",
+        "characteristic_cn": "",
+        "characteristic_en": "",
+        "characteristic_jp": "",
+        "characteristic_kr": "",
+        "camp": "",
+        "type": "近卫",
+        "level": 5,
+        "sex": "男",
+        "tags": [
+          "资深干员",
+          "近战位",
+          "群攻",
+          "生存"
+        ],
+        "hidden": false,
+        "globalHidden": false
+      },
+      {
+        "id": "char_279_excu",
+        "name_cn": "送葬人",
+        "name_en": "Executor",
+        "name_jp": "イグゼキュター",
+        "name_kr": "이그제큐터",
+        "characteristic_cn": "",
+        "characteristic_en": "",
+        "characteristic_jp": "",
+        "characteristic_kr": "",
+        "camp": "",
+        "type": "狙击",
+        "level": 5,
+        "sex": "男",
+        "tags": [
+          "资深干员",
+          "远程位",
+          "群攻"
+        ],
+        "hidden": false,
+        "globalHidden": false
+      },
+      {
+        "id": "char_373_lionhd",
+        "name_cn": "莱恩哈特",
+        "name_en": "Leonhardt",
+        "name_jp": "レオンハルト",
+        "name_kr": "레온하르트",
+        "characteristic_cn": "",
+        "characteristic_en": "",
+        "characteristic_jp": "",
+        "characteristic_kr": "",
+        "camp": "",
+        "type": "术师",
+        "level": 5,
+        "sex": "男",
+        "tags": [
+          "资深干员",
+          "远程位",
+          "群攻",
+          "爆发"
+        ],
+        "hidden": false,
+        "globalHidden": false
+      },
+      {
+        "id": "char_219_meteo",
+        "name_cn": "陨星",
+        "name_en": "Meteorite",
+        "name_jp": "メテオリーテ",
+        "name_kr": "메테오라이트",
+        "characteristic_cn": "攻击造成群体物理伤害",
+        "characteristic_en": "Attack causes group physical damage",
+        "characteristic_jp": "",
+        "characteristic_kr": "",
+        "camp": "罗德岛",
+        "type": "狙击",
+        "level": 5,
+        "sex": "女",
+        "tags": [
+          "资深干员",
+          "远程位",
+          "群攻",
+          "削弱"
+        ],
+        "hidden": false
+      },
+      {
+        "id": "char_379_sesa",
+        "name_cn": "慑砂",
+        "name_en": "Sesa",
+        "name_jp": "シェーシャ",
+        "name_kr": "세사",
+        "characteristic_cn": "",
+        "characteristic_en": "",
+        "characteristic_jp": "",
+        "characteristic_kr": "",
+        "camp": "",
+        "type": "狙击",
+        "level": 5,
+        "sex": "男",
+        "tags": [
+          "资深干员",
+          "远程位",
+          "群攻",
+          "削弱"
+        ],
+        "hidden": false,
+        "globalHidden": false
+      },
+      {
+        "id": "char_143_ghost",
+        "name_cn": "幽灵鲨",
+        "name_en": "Specter",
+        "name_jp": "スペクター",
+        "name_kr": "스펙터",
+        "characteristic_cn": "同时攻击阻挡的所有敌人",
+        "characteristic_en": "Attack all enemies blocked at the same time",
+        "characteristic_jp": "",
+        "characteristic_kr": "",
+        "camp": "罗德岛",
+        "type": "近卫",
+        "level": 5,
+        "sex": "女",
+        "tags": [
+          "资深干员",
+          "近战位",
+          "群攻",
+          "生存"
+        ],
+        "hidden": false
+      },
+      {
+        "id": "char_127_estell",
+        "name_cn": "艾丝黛尔",
+        "name_en": "Estelle",
+        "name_jp": "エステル",
+        "name_kr": "에스텔",
+        "characteristic_cn": "同时攻击阻挡的所有敌人",
+        "characteristic_en": "Attack all enemies blocked at the same time",
+        "characteristic_jp": "",
+        "characteristic_kr": "",
+        "camp": "罗德岛",
+        "type": "近卫",
+        "level": 4,
+        "sex": "女",
+        "tags": [
+          "近战位",
+          "群攻",
+          "生存"
+        ],
+        "hidden": false
+      },
+      {
+        "id": "char_109_fmout",
+        "name_cn": "远山",
+        "name_en": "Gitano",
+        "name_jp": "ギターノ",
+        "name_kr": "기타노",
+        "characteristic_cn": "攻击造成群体法术伤害",
+        "characteristic_en": "Attack causes group spell damage",
+        "characteristic_jp": "",
+        "characteristic_kr": "",
+        "camp": "罗德岛",
+        "type": "术师",
+        "level": 4,
+        "sex": "女",
+        "tags": [
+          "远程位",
+          "群攻"
+        ],
+        "hidden": false
+      },
+      {
+        "id": "char_253_greyy",
+        "name_cn": "格雷伊",
+        "name_en": "Greyy",
+        "name_jp": "グレイ",
+        "name_kr": "그레이",
+        "characteristic_cn": "",
+        "characteristic_en": "",
+        "characteristic_jp": "",
+        "characteristic_kr": "",
+        "camp": "",
+        "type": "术师",
+        "level": 4,
+        "sex": "男",
+        "tags": [
+          "远程位",
+          "群攻",
+          "减速"
+        ],
+        "hidden": false,
+        "globalHidden": false
+      },
+      {
+        "id": "char_118_yuki",
+        "name_cn": "白雪",
+        "name_en": "ShiraYuki",
+        "name_jp": "シラユキ",
+        "name_kr": "시라유키",
+        "characteristic_cn": "攻击造成群体物理伤害",
+        "characteristic_en": "Attack causes group physical damage",
+        "characteristic_jp": "",
+        "characteristic_kr": "",
+        "camp": "龙门",
+        "type": "狙击",
+        "level": 4,
+        "sex": "女",
+        "tags": [
+          "远程位",
+          "群攻",
+          "减速"
+        ],
+        "hidden": false
+      },
+      {
+        "id": "char_282_catap",
+        "name_cn": "空爆",
+        "name_en": "Catapult",
+        "name_jp": "カタパルト",
+        "name_kr": "캐터펄트",
+        "characteristic_cn": "罗德岛干员空爆，作为狙击干员，十分擅长对抗大批敌人。",
+        "characteristic_en": "a",
+        "characteristic_jp": "",
+        "characteristic_kr": "",
+        "camp": "罗德岛",
+        "type": "狙击",
+        "level": 3,
+        "sex": "女",
+        "tags": [
+          "远程位",
+          "群攻"
+        ],
+        "hidden": false,
+        "globalHidden": false
+      },
+      {
+        "id": "char_121_lava",
+        "name_cn": "炎熔",
+        "name_en": "Lava",
+        "name_jp": "ラヴァ",
+        "name_kr": "라바",
+        "characteristic_cn": "攻击造成群体法术伤害",
+        "characteristic_en": "Attack causes group spell damage",
+        "characteristic_jp": "",
+        "characteristic_kr": "",
+        "camp": "罗德岛",
+        "type": "术师",
+        "level": 3,
+        "sex": "女",
+        "tags": [
+          "远程位",
+          "群攻"
+        ],
+        "hidden": false
+      },
+      {
+        "id": "char_281_popka",
+        "name_cn": "泡普卡",
+        "name_en": "Popukar",
+        "name_jp": "ポプカル",
+        "name_kr": "포푸카",
+        "characteristic_cn": "",
+        "characteristic_en": "",
+        "characteristic_jp": "",
+        "characteristic_kr": "",
+        "camp": "",
+        "type": "近卫",
+        "level": 3,
+        "sex": "女",
+        "tags": [
+          "近战位",
+          "群攻",
+          "生存"
+        ],
+        "hidden": false,
+        "globalHidden": false
+      }
+    ]
+  },
+  {
+    "tags": [
+      "DPS"
+    ],
+    "operators": [
+      {
+        "id": "char_378_asbest",
+        "name_cn": "石棉",
+        "name_en": "Asbestos",
+        "name_jp": "アスベストス",
+        "name_kr": "아스베스토스",
+        "characteristic_cn": "",
+        "characteristic_en": "",
+        "characteristic_jp": "",
+        "characteristic_kr": "",
+        "camp": "",
+        "type": "重装",
+        "level": 5,
+        "sex": "女",
+        "tags": [
+          "资深干员",
+          "近战位",
+          "防护",
+          "输出"
+        ],
+        "hidden": false,
+        "globalHidden": false
+      },
+      {
+        "id": "char_274_astesi",
+        "name_cn": "星极",
+        "name_en": "Astesia",
+        "name_jp": "アステシア",
+        "name_kr": "아스테시아",
+        "characteristic_cn": "",
+        "characteristic_en": "",
+        "characteristic_jp": "",
+        "characteristic_kr": "",
+        "camp": "",
+        "type": "近卫",
+        "level": 5,
+        "sex": "女",
+        "tags": [
+          "资深干员",
+          "近战位",
+          "输出",
+          "防护"
+        ],
+        "hidden": false,
+        "globalHidden": false
+      },
+      {
+        "id": "char_129_bluep",
+        "name_cn": "蓝毒",
+        "name_en": "Blue Poison",
+        "name_jp": "アズリウス",
+        "name_kr": "블루포이즌",
+        "characteristic_cn": "优先攻击空中单位",
+        "characteristic_en": "Priority attack air unit",
+        "characteristic_jp": "",
+        "characteristic_kr": "",
+        "camp": "罗德岛",
+        "type": "狙击",
+        "level": 5,
+        "sex": "女",
+        "tags": [
+          "资深干员",
+          "远程位",
+          "输出"
+        ],
+        "hidden": false
+      },
+      {
+        "id": "char_173_slchan",
+        "name_cn": "崖心",
+        "name_en": "Cliffheart",
+        "name_jp": "クリフハート",
+        "name_kr": "클리프하트",
+        "characteristic_cn": "技能可以使敌人产生位移、可以放置于远程位",
+        "characteristic_en": "Skills can make the enemy shift、Can be placed in a remote location",
+        "characteristic_jp": "",
+        "characteristic_kr": "",
+        "camp": "谢拉格",
+        "type": "特种",
+        "level": 5,
+        "sex": "女",
+        "tags": [
+          "资深干员",
+          "近战位",
+          "位移",
+          "输出"
+        ],
+        "hidden": false
+      },
+      {
+        "id": "char_158_milu",
+        "name_cn": "守林人",
+        "name_en": "Firewatch",
+        "name_jp": "ファイヤーウォッチ",
+        "name_kr": "파이어워치",
+        "characteristic_cn": "优先攻击攻击范围内防御力最低的敌方单位",
+        "characteristic_en": "The enemy unit with the lowest defense power within the priority attack range",
+        "characteristic_jp": "",
+        "characteristic_kr": "",
+        "camp": "罗德岛",
+        "type": "狙击",
+        "level": 5,
+        "sex": "女",
+        "tags": [
+          "资深干员",
+          "远程位",
+          "输出",
+          "爆发"
+        ],
+        "hidden": false
+      },
+      {
+        "id": "char_367_swllow",
+        "name_cn": "灰喉",
+        "name_en": "GreyThroat",
+        "name_jp": "グレースロート",
+        "name_kr": "그레이스롯",
+        "characteristic_cn": "",
+        "characteristic_en": "",
+        "characteristic_jp": "",
+        "characteristic_kr": "",
+        "camp": "",
+        "type": "狙击",
+        "level": 5,
+        "sex": "女",
+        "tags": [
+          "资深干员",
+          "远程位",
+          "输出"
+        ],
+        "hidden": false,
+        "globalHidden": false
+      },
+      {
+        "id": "char_155_tiger",
+        "name_cn": "因陀罗",
+        "name_en": "Indra",
+        "name_jp": "インドラ",
+        "name_kr": "인드라",
+        "characteristic_cn": "能够阻挡一个敌人",
+        "characteristic_en": "Able to block an enemy",
+        "characteristic_jp": "",
+        "characteristic_kr": "",
+        "camp": "维多利亚",
+        "type": "近卫",
+        "level": 5,
+        "sex": "女",
+        "tags": [
+          "资深干员",
+          "近战位",
+          "输出",
+          "生存"
+        ],
+        "hidden": false
+      },
+      {
+        "id": "char_306_leizi",
+        "name_cn": "惊蛰",
+        "name_en": "Leizi",
+        "name_jp": "レイズ",
+        "name_kr": "레이즈",
+        "characteristic_cn": "",
+        "characteristic_en": "",
+        "characteristic_jp": "",
+        "characteristic_kr": "",
+        "camp": "",
+        "type": "术师",
+        "level": 5,
+        "sex": "女",
+        "tags": [
+          "资深干员",
+          "远程位",
+          "输出"
+        ],
+        "hidden": false,
+        "globalHidden": false
+      },
+      {
+        "id": "char_107_liskam",
+        "name_cn": "雷蛇",
+        "name_en": "Liskarm",
+        "name_jp": "リスカム",
+        "name_kr": "리스캄",
+        "characteristic_cn": "能够阻挡三个敌人",
+        "characteristic_en": "Able to block three enemies",
+        "characteristic_jp": "",
+        "characteristic_kr": "",
+        "camp": "黑钢国际",
+        "type": "重装",
+        "level": 5,
+        "sex": "女",
+        "tags": [
+          "资深干员",
+          "近战位",
+          "防护",
+          "输出"
+        ],
+        "hidden": false
+      },
+      {
+        "id": "char_215_mantic",
+        "name_cn": "狮蝎",
+        "name_en": "Manticore",
+        "name_jp": "マンティコア",
+        "name_kr": "맨티코어",
+        "characteristic_cn": "对攻击范围内所有敌人造成伤害、拥有50%的物理和法术闪避且不容易成为敌人的攻击目标",
+        "characteristic_en": "Inflicts damage to all enemies within the attack range、Has 50% physical and spell dodge and is not easy to become an enemy target",
+        "characteristic_jp": "",
+        "characteristic_kr": "",
+        "camp": "罗德岛",
+        "type": "特种",
+        "level": 5,
+        "sex": "女",
+        "tags": [
+          "资深干员",
+          "近战位",
+          "输出",
+          "生存"
+        ],
+        "hidden": false
+      },
+      {
+        "id": "char_164_nightm",
+        "name_cn": "夜魔",
+        "name_en": "Nightmare",
+        "name_jp": "ナイトメア",
+        "name_kr": "나이트메어",
+        "characteristic_cn": "攻击造成法术伤害",
+        "characteristic_en": "Attack causes spell damage",
+        "characteristic_jp": "",
+        "characteristic_kr": "",
+        "camp": "维多利亚",
+        "type": "术师",
+        "level": 5,
+        "sex": "女",
+        "tags": [
+          "资深干员",
+          "远程位",
+          "输出",
+          "治疗",
+          "减速"
+        ],
+        "hidden": false,
+        "globalHidden": false
+      },
+      {
+        "id": "char_204_platnm",
+        "name_cn": "白金",
+        "name_en": "Platinum",
+        "name_jp": "プラチナ",
+        "name_kr": "플래티넘",
+        "characteristic_cn": "优先攻击空中单位",
+        "characteristic_en": "Priority attack air unit",
+        "characteristic_jp": "",
+        "characteristic_kr": "",
+        "camp": "卡西米尔",
+        "type": "狙击",
+        "level": 5,
+        "sex": "女",
+        "tags": [
+          "资深干员",
+          "远程位",
+          "输出"
+        ],
+        "hidden": false
+      },
+      {
+        "id": "char_145_prove",
+        "name_cn": "普罗旺斯",
+        "name_en": "Provence",
+        "name_jp": "プロヴァンス",
+        "name_kr": "프로방스",
+        "characteristic_cn": "高精度的近距离射击",
+        "characteristic_en": "High precision close range shooting",
+        "characteristic_jp": "",
+        "characteristic_kr": "",
+        "camp": "罗德岛",
+        "type": "狙击",
+        "level": 5,
+        "sex": "女",
+        "tags": [
+          "资深干员",
+          "远程位",
+          "输出"
+        ],
+        "hidden": false
+      },
+      {
+        "id": "char_261_sddrag",
+        "name_cn": "苇草",
+        "name_en": "Reed",
+        "name_jp": "リード",
+        "name_kr": "리드",
+        "characteristic_cn": "",
+        "characteristic_en": "",
+        "characteristic_jp": "",
+        "characteristic_kr": "",
+        "camp": "",
+        "type": "先锋",
+        "level": 5,
+        "sex": "女",
+        "tags": [
+          "资深干员",
+          "近战位",
+          "费用回复",
+          "输出"
+        ],
+        "hidden": false,
+        "globalHidden": false
+      },
+      {
+        "id": "char_308_swire",
+        "name_cn": "诗怀雅",
+        "name_en": "Swire",
+        "name_jp": "スワイヤー",
+        "name_kr": "스와이어",
+        "characteristic_cn": "",
+        "characteristic_en": "",
+        "characteristic_jp": "",
+        "characteristic_kr": "",
+        "camp": "",
+        "type": "近卫",
+        "level": 5,
+        "sex": "女",
+        "tags": [
+          "资深干员",
+          "近战位",
+          "输出",
+          "支援"
+        ],
+        "hidden": false,
+        "globalHidden": false
+      },
+      {
+        "id": "char_163_hpsts",
+        "name_cn": "火神",
+        "name_en": "Vulcan",
+        "name_jp": "ヴァルカン",
+        "name_kr": "벌컨",
+        "characteristic_cn": "无法被友方角色治疗",
+        "characteristic_en": "Unable to be treated by friendly role",
+        "characteristic_jp": "",
+        "characteristic_kr": "",
+        "camp": "罗德岛",
+        "type": "重装",
+        "level": 5,
+        "sex": "女",
+        "tags": [
+          "资深干员",
+          "近战位",
+          "生存",
+          "防护",
+          "输出"
+        ],
+        "hidden": false
+      },
+      {
+        "id": "char_195_glassb",
+        "name_cn": "真理",
+        "name_en": "Истина",
+        "name_jp": "イースチナ",
+        "name_kr": "이스티나",
+        "characteristic_cn": "攻击造成法术伤害，并对敌人造成短暂的停顿",
+        "characteristic_en": "Attack causes spell damage，And cause a short pause to the enemy",
+        "characteristic_jp": "",
+        "characteristic_kr": "",
+        "camp": "乌萨斯",
+        "type": "辅助",
+        "level": 5,
+        "sex": "女",
+        "tags": [
+          "资深干员",
+          "远程位",
+          "减速",
+          "输出"
+        ],
+        "hidden": false
+      },
+      {
+        "id": "char_302_glaze",
+        "name_cn": "安比尔",
+        "name_en": "Ambriel",
+        "name_jp": "アンブリエル",
+        "name_kr": "엠브리엘",
+        "characteristic_cn": "",
+        "characteristic_en": "",
+        "characteristic_jp": "",
+        "characteristic_kr": "",
+        "camp": "",
+        "type": "狙击",
+        "level": 4,
+        "sex": "女",
+        "tags": [
+          "远程位",
+          "输出",
+          "减速"
+        ],
+        "hidden": false,
+        "globalHidden": false
+      },
+      {
+        "id": "char_137_brownb",
+        "name_cn": "猎蜂",
+        "name_en": "Beehunter",
+        "name_jp": "ビーハンター",
+        "name_kr": "비헌터",
+        "characteristic_cn": "能够阻挡一个敌人",
+        "characteristic_en": "Able to block an enemy",
+        "characteristic_jp": "",
+        "characteristic_kr": "",
+        "camp": "乌萨斯",
+        "type": "近卫",
+        "level": 4,
+        "sex": "女",
+        "tags": [
+          "近战位",
+          "输出"
+        ],
+        "hidden": false,
+        "globalHidden": false
+      },
+      {
+        "id": "char_301_cutter",
+        "name_cn": "刻刀",
+        "name_en": "Cutter",
+        "name_jp": "カッター",
+        "name_kr": "커터",
+        "characteristic_cn": "",
+        "characteristic_en": "",
+        "characteristic_jp": "",
+        "characteristic_kr": "",
+        "camp": "",
+        "type": "近卫",
+        "level": 4,
+        "sex": "女",
+        "tags": [
+          "近战位",
+          "爆发",
+          "输出"
+        ],
+        "hidden": false,
+        "globalHidden": false
+      },
+      {
+        "id": "char_130_doberm",
+        "name_cn": "杜宾",
+        "name_en": "Dobermann",
+        "name_jp": "ドーベルマン",
+        "name_kr": "도베르만",
+        "characteristic_cn": "可以攻击到较远敌人",
+        "characteristic_en": "Can attack distant enemies",
+        "characteristic_jp": "",
+        "characteristic_kr": "",
+        "camp": "罗德岛",
+        "type": "近卫",
+        "level": 4,
+        "sex": "女",
+        "tags": [
+          "近战位",
+          "输出",
+          "支援"
+        ],
+        "hidden": false
+      },
+      {
+        "id": "char_193_frostl",
+        "name_cn": "霜叶",
+        "name_en": "Frostleaf",
+        "name_jp": "フロストリーフ",
+        "name_kr": "프로스트리프",
+        "characteristic_cn": "可以进行远程攻击，但此时攻击力降低至80%",
+        "characteristic_en": "Can be used for remote attacks，But at this time the attack power is reduced to 80%.",
+        "characteristic_jp": "",
+        "characteristic_kr": "",
+        "camp": "罗德岛",
+        "type": "近卫",
+        "level": 4,
+        "sex": "女",
+        "tags": [
+          "近战位",
+          "减速",
+          "输出"
+        ],
+        "hidden": false
+      },
+      {
+        "id": "char_141_nights",
+        "name_cn": "夜烟",
+        "name_en": "Haze",
+        "name_jp": "ヘイズ",
+        "name_kr": "헤이즈",
+        "characteristic_cn": "攻击造成法术伤害",
+        "characteristic_en": "Attack causes spell damage",
+        "characteristic_jp": "",
+        "characteristic_kr": "",
+        "camp": "罗德岛",
+        "type": "术师",
+        "level": 4,
+        "sex": "女",
+        "tags": [
+          "远程位",
+          "输出",
+          "削弱"
+        ],
+        "hidden": false
+      },
+      {
+        "id": "char_235_jesica",
+        "name_cn": "杰西卡",
+        "name_en": "Jessica",
+        "name_jp": "ジェシカ",
+        "name_kr": "제시카",
+        "characteristic_cn": "优先攻击空中单位",
+        "characteristic_en": "Priority attack air unit",
+        "characteristic_jp": "",
+        "characteristic_kr": "",
+        "camp": "黑钢国际",
+        "type": "狙击",
+        "level": 4,
+        "sex": "女",
+        "tags": [
+          "远程位",
+          "输出",
+          "生存"
+        ],
+        "hidden": false
+      },
+      {
+        "id": "char_289_gyuki",
+        "name_cn": "缠丸",
+        "name_en": "Matoimaru",
+        "name_jp": "マトイマル",
+        "name_kr": "마토이마루",
+        "characteristic_cn": "能够阻挡一个敌人",
+        "characteristic_en": "Able to block an enemy",
+        "characteristic_jp": "",
+        "characteristic_kr": "",
+        "camp": "罗德岛",
+        "type": "近卫",
+        "level": 4,
+        "sex": "女",
+        "tags": [
+          "近战位",
+          "生存",
+          "输出"
+        ],
+        "hidden": false
+      },
+      {
+        "id": "char_133_mm",
+        "name_cn": "梅",
+        "name_en": "May",
+        "name_jp": "メイ",
+        "name_kr": "메이",
+        "characteristic_cn": "",
+        "characteristic_en": "",
+        "characteristic_jp": "",
+        "characteristic_kr": "",
+        "camp": "",
+        "type": "狙击",
+        "level": 4,
+        "sex": "女",
+        "tags": [
+          "远程位",
+          "输出",
+          "减速"
+        ],
+        "hidden": false,
+        "globalHidden": false
+      },
+      {
+        "id": "char_126_shotst",
+        "name_cn": "流星",
+        "name_en": "Meteor",
+        "name_jp": "メテオ",
+        "name_kr": "메테오",
+        "characteristic_cn": "优先攻击空中单位",
+        "characteristic_en": "Priority attack air unit",
+        "characteristic_jp": "",
+        "characteristic_kr": "",
+        "camp": "卡西米尔",
+        "type": "狙击",
+        "level": 4,
+        "sex": "女",
+        "tags": [
+          "远程位",
+          "输出",
+          "削弱"
+        ],
+        "hidden": false
+      },
+      {
+        "id": "char_185_frncat",
+        "name_cn": "慕斯",
+        "name_en": "Mousse",
+        "name_jp": "ムース",
+        "name_kr": "무스",
+        "characteristic_cn": "攻击造成法术伤害",
+        "characteristic_en": "Attack causes spell damage",
+        "characteristic_jp": "",
+        "characteristic_kr": "",
+        "camp": "维多利亚",
+        "type": "近卫",
+        "level": 4,
+        "sex": "女",
+        "tags": [
+          "近战位",
+          "输出"
+        ],
+        "hidden": false
+      },
+      {
+        "id": "char_149_scave",
+        "name_cn": "清道夫",
+        "name_en": "Scavenger",
+        "name_jp": "スカベンジャー",
+        "name_kr": "스캐빈저",
+        "characteristic_cn": "能够阻挡两个敌人",
+        "characteristic_en": "Able to block two enemies",
+        "characteristic_jp": "",
+        "characteristic_kr": "",
+        "camp": "罗德岛",
+        "type": "先锋",
+        "level": 4,
+        "sex": "女",
+        "tags": [
+          "近战位",
+          "费用回复",
+          "输出"
+        ],
+        "hidden": false
+      },
+      {
+        "id": "char_337_utage",
+        "name_cn": "宴",
+        "name_en": "Utage",
+        "name_jp": "ウタゲ",
+        "name_kr": "우타게",
+        "characteristic_cn": "",
+        "characteristic_en": "",
+        "characteristic_jp": "",
+        "characteristic_kr": "",
+        "camp": "",
+        "type": "近卫",
+        "level": 4,
+        "sex": "女",
+        "tags": [
+          "近战位",
+          "输出",
+          "生存"
+        ],
+        "hidden": false,
+        "globalHidden": false
+      },
+      {
+        "id": "char_190_clour",
+        "name_cn": "红云",
+        "name_en": "Vermeil",
+        "name_jp": "ヴァーミル",
+        "name_kr": "버메일",
+        "characteristic_cn": "",
+        "characteristic_en": "",
+        "characteristic_jp": "",
+        "characteristic_kr": "",
+        "camp": "",
+        "type": "狙击",
+        "level": 4,
+        "sex": "女",
+        "tags": [
+          "远程位",
+          "输出"
+        ],
+        "hidden": false,
+        "globalHidden": false
+      },
+      {
+        "id": "char_290_vigna",
+        "name_cn": "红豆",
+        "name_en": "Vigna",
+        "name_jp": "ヴィグナ",
+        "name_kr": "비그나",
+        "characteristic_cn": "击杀敌人后获得1点部署费用，撤退时返还初始部署费用",
+        "characteristic_en": "Get 1 point deployment fee after killing enemy，Return initial deployment fee upon withdrawal",
+        "characteristic_jp": "",
+        "characteristic_kr": "",
+        "camp": "罗德岛",
+        "type": "先锋",
+        "level": 4,
+        "sex": "女",
+        "tags": [
+          "近战位",
+          "输出",
+          "费用回复"
+        ],
+        "hidden": false
+      },
+      {
+        "id": "char_211_adnach",
+        "name_cn": "安德切尔",
+        "name_en": "Adnachiel",
+        "name_jp": "アドナキエル",
+        "name_kr": "아드나키엘",
+        "characteristic_cn": "优先攻击空中单位",
+        "characteristic_en": "Priority attack air unit",
+        "characteristic_jp": "",
+        "characteristic_kr": "",
+        "camp": "罗德岛",
+        "type": "狙击",
+        "level": 3,
+        "sex": "男",
+        "tags": [
+          "远程位",
+          "输出"
+        ],
+        "hidden": false
+      },
+      {
+        "id": "char_124_kroos",
+        "name_cn": "克洛丝",
+        "name_en": "Kroos",
+        "name_jp": "クルース",
+        "name_kr": "크루스",
+        "characteristic_cn": "优先攻击空中单位",
+        "characteristic_en": "Priority attack air unit",
+        "characteristic_jp": "",
+        "characteristic_kr": "",
+        "camp": "罗德岛",
+        "type": "狙击",
+        "level": 3,
+        "sex": "女",
+        "tags": [
+          "远程位",
+          "输出"
+        ],
+        "hidden": false
+      },
+      {
+        "id": "char_208_melan",
+        "name_cn": "玫兰莎",
+        "name_en": "Melantha",
+        "name_jp": "メランサ",
+        "name_kr": "멜란사",
+        "characteristic_cn": "能够阻挡一个敌人",
+        "characteristic_en": "Able to block an enemy",
+        "characteristic_jp": "",
+        "characteristic_kr": "",
+        "camp": "罗德岛",
+        "type": "近卫",
+        "level": 3,
+        "sex": "女",
+        "tags": [
+          "近战位",
+          "输出",
+          "生存"
+        ],
+        "hidden": false
+      },
+      {
+        "id": "char_283_midn",
+        "name_cn": "月见夜",
+        "name_en": "Midnight",
+        "name_jp": "ミッドナイト",
+        "name_kr": "미드나이트",
+        "characteristic_cn": "",
+        "characteristic_en": "",
+        "characteristic_jp": "",
+        "characteristic_kr": "",
+        "camp": "",
+        "type": "近卫",
+        "level": 3,
+        "sex": "男",
+        "tags": [
+          "近战位",
+          "输出"
+        ],
+        "hidden": false,
+        "globalHidden": false
+      },
+      {
+        "id": "char_192_falco",
+        "name_cn": "翎羽",
+        "name_en": "Plume",
+        "name_jp": "プリュム",
+        "name_kr": "플룸",
+        "characteristic_cn": "击杀敌人后获得1点部署费用，撤退时返还初始部署费用",
+        "characteristic_en": "Get 1 point deployment fee after killing enemy，Return initial deployment fee upon withdrawal",
+        "characteristic_jp": "",
+        "characteristic_kr": "",
+        "camp": "拉特兰",
+        "type": "先锋",
+        "level": 3,
+        "sex": "女",
+        "tags": [
+          "近战位",
+          "输出",
+          "费用回复"
+        ],
+        "hidden": false
+      },
+      {
+        "id": "char_210_stward",
+        "name_cn": "史都华德",
+        "name_en": "Steward",
+        "name_jp": "スチュワード",
+        "name_kr": "스튜어드",
+        "characteristic_cn": "攻击造成法术伤害",
+        "characteristic_en": "Attack causes spell damage",
+        "characteristic_jp": "",
+        "characteristic_kr": "",
+        "camp": "罗德岛",
+        "type": "术师",
+        "level": 3,
+        "sex": "男",
+        "tags": [
+          "远程位",
+          "输出"
+        ],
+        "hidden": false
+      }
+    ]
+  }
+]
