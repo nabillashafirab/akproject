@@ -9,6 +9,16 @@ const characterSets = {
   };
 
 export default characterSets;
+
+// const characterSets = {
+//   Guard: ["Specter", "Indra", "Swire", "Melantha", "SilverAsh", "Skadi", "Hellagur", "Blaze", "Ch'en"],
+//   DPS: ["Indra", "Swire", "Firewatch", "Melantha", "SilverAsh", "Magallan", "Aak","Ch'en"],
+//   Support: ["Swire", "Ptilopsis", "Tsukinogi", "SilverAsh", "Magallan", "Aak"],
+//   'Senior Operator': ["Specter", "Indra", "Swire", "Firewatch", "Ptilopsis", "Tsukinogi"],
+//   Survival: ["Melantha", "Indra", "Specter", "Tsukinogi", "Skadi", "Hellagur", "Blaze"],
+//   'Top Operator': ["SilverAsh", "Skadi", "Hellagur", "Blaze", "Magallan", "Aak"],
+//   Starter: [{ name: "Melantha", rarity: 3 }]
+// };
 // {
 //   Guard: ["Specter", "Indra", "Swire"],
 //   DPS: ["Indra", "Swire", "Firewatch"],
