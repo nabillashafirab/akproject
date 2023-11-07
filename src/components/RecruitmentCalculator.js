@@ -51,7 +51,7 @@ const RecruitmentCalculator = () => {
       let tagsCombinations = _.flatMap(clickedTagsArray, (v, i, a) =>
         _.combinations(a, i + 1)
       );
-      const returnOperatorList = tagsCombinations.map((x) => {
+      return tagsCombinations.map((x) => {
         //return results for each combinations
         const toBeIntersect = [];
         x.forEach((y) => {
@@ -69,6 +69,12 @@ const RecruitmentCalculator = () => {
               tags: x,
               operators: result,
             });
+            return (
+              <>
+                <p>{x.toString()}</p>
+                <p>{result.toString()}</p>
+              </>
+            );
           }
         }
       });
@@ -80,9 +86,11 @@ const RecruitmentCalculator = () => {
     console.log(cleanData);
     // You can set `cleanData` as state, or return it
     // setCalculatedOperatorList(cleanData);
+
+    return <></>;
   };
 
-  operatorList();
+  // operatorList();
 
   const renderOperatorList = () => {
     return <></>;
@@ -91,7 +99,8 @@ const RecruitmentCalculator = () => {
   return (
     <>
       {renderTagButtons()}
-      {renderOperatorList()}
+      {/* {renderOperatorList()} */}
+      {operatorList()}
     </>
   );
 };
