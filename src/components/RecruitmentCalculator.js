@@ -44,6 +44,7 @@ const RecruitmentCalculator = () => {
   const operatorList = () => {
     // Sets -> Array
     const clickedTagsArray = Array.from(clickedTags);
+    const cleanData = [];
 
     //max clicked tags is 5
     if (clickedTagsArray.length <= 5) {
@@ -64,9 +65,10 @@ const RecruitmentCalculator = () => {
           );
           if (result.length > 0) {
             console.log(`${x}: [${result}]`);
-            console.log(x);
-            console.log(result);
-            // setCalculatedOperatorList(result); // Return the result for each combination
+            cleanData.push({
+              tags: x,
+              operators: result,
+            });
           }
         }
       });
@@ -75,6 +77,8 @@ const RecruitmentCalculator = () => {
       console.log(clickedTags);
     }
 
+    console.log(cleanData);
+    // You can set `cleanData` as state, or return it
     // setCalculatedOperatorList(cleanData);
   };
 
