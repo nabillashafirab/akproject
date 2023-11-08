@@ -15,8 +15,7 @@ const RecruitmentCalculator = () => {
     } else {
       clickedTags.add(tag);
     }
-    setClickedTags(clickedTags);
-    console.log(clickedTags); // Log the updated Set
+    setClickedTags(new Set(clickedTags));
   };
 
   const renderTagButtons = () => {
@@ -45,25 +44,37 @@ const RecruitmentCalculator = () => {
   const operatorList = () => {
     // Sets -> Array
     const clickedTagsArray = Array.from(clickedTags);
+    const cleanData = [];
 
     //max clicked tags is 5
     if (clickedTagsArray.length <= 5) {
       let tagsCombinations = _.flatMap(clickedTagsArray, (v, i, a) =>
-        _.combinations(a, i + 1),
+        _.combinations(a, i + 1)
       );
-      const returnOperatorList = tagsCombinations.map((x) => {
+      return tagsCombinations.map((x) => {
         //return results for each combinations
         const toBeIntersect = [];
         x.forEach((y) => {
           toBeIntersect.push(characterSets[y]);
         });
 
+        console.log(x);
         if (x.length <= 3) {
-          const result = toBeIntersect
-            .reduce((a, b) => a.filter((c) => b.includes(c)))
+          const result = toBeIntersect.reduce((a, b) =>
+            a.filter((c) => b.includes(c))
+          );
           if (result.length > 0) {
             console.log(`${x}: [${result}]`);
-            // setCalculatedOperatorList(result); // Return the result for each combination
+            cleanData.push({
+              tags: x,
+              operators: result,
+            });
+            return (
+              <>
+                <p>{x.toString()}</p>
+                <p>{result.toString()}</p>
+              </>
+            );
           }
         }
       });
@@ -72,20 +83,26 @@ const RecruitmentCalculator = () => {
       console.log(clickedTags);
     }
 
+    console.log(cleanData);
+    // You can set `cleanData` as state, or return it
     // setCalculatedOperatorList(cleanData);
+
+    return <></>;
   };
 
-  operatorList();
+  // operatorList();
 
   const renderOperatorList = () => {
-    return (<></>);
-  }
+    return <></>;
+  };
 
-return <>
-  {renderTagButtons()}
-  {renderOperatorList()}
-  
-  </>;
+  return (
+    <>
+      {renderTagButtons()}
+      {/* {renderOperatorList()} */}
+      {operatorList()}
+    </>
+  );
 };
 
 export default RecruitmentCalculator;
