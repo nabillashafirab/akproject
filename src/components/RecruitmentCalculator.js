@@ -1,12 +1,14 @@
 import React, { useState } from "react";
 import TagButton from "./TagButton";
+import columns from "./ServingTable";
+import { Space, Table, Tag } from "antd";
 import characterSets from "./CharacterSets";
 import "lodash.combinations";
 import _ from "lodash";
 
 const RecruitmentCalculator = () => {
   const [clickedTags, setClickedTags] = useState(new Set());
-  const [calculatedOperatorList, setCalculatedOperatorList] = useState(null);
+  const [calculatedOperatorList, setCalculatedOperatorList] = useState([]);
 
   const handleClickedTags = (tag) => {
     // add tag to clickedTags
@@ -49,29 +51,29 @@ const RecruitmentCalculator = () => {
     //max clicked tags is 5
     if (clickedTagsArray.length <= 5) {
       let tagsCombinations = _.flatMap(clickedTagsArray, (v, i, a) =>
-        _.combinations(a, i + 1)
+        _.combinations(a, i + 1),
       );
-      return tagsCombinations.map((x) => {
+      return tagsCombinations.map((eachCombinations) => {
         //return results for each combinations
         const toBeIntersect = [];
-        x.forEach((y) => {
-          toBeIntersect.push(characterSets[y]);
+        eachCombinations.forEach((operator) => {
+          toBeIntersect.push(characterSets[operator]);
         });
 
-        console.log(x);
-        if (x.length <= 3) {
+        console.log(eachCombinations);
+        if (eachCombinations.length <= 3) {
           const result = toBeIntersect.reduce((a, b) =>
-            a.filter((c) => b.includes(c))
+            a.filter((c) => b.includes(c)),
           );
           if (result.length > 0) {
-            console.log(`${x}: [${result}]`);
+            console.log(`${eachCombinations}: [${result}]`);
             cleanData.push({
-              tags: x,
+              tags: eachCombinations,
               operators: result,
             });
             return (
               <>
-                <p>{x.toString()}</p>
+                <p>{eachCombinations.toString()}</p>
                 <p>{result.toString()}</p>
               </>
             );
@@ -85,22 +87,22 @@ const RecruitmentCalculator = () => {
 
     console.log(cleanData);
     // You can set `cleanData` as state, or return it
-    // setCalculatedOperatorList(cleanData);
+    setCalculatedOperatorList(cleanData);
 
     return <></>;
   };
 
   // operatorList();
 
-  const renderOperatorList = () => {
-    return <></>;
+  const renderOperatorList = (data) => {
+    return <Table columns={columns} dataSource={data} />;
   };
 
   return (
     <>
       {renderTagButtons()}
-      {/* {renderOperatorList()} */}
       {operatorList()}
+      {renderOperatorList(calculatedOperatorList)}
     </>
   );
 };
