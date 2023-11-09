@@ -18,6 +18,7 @@ const RecruitmentCalculator = () => {
       clickedTags.add(tag);
     }
     setClickedTags(new Set(clickedTags));
+    operatorList();
   };
 
   const renderTagButtons = () => {
@@ -51,9 +52,9 @@ const RecruitmentCalculator = () => {
     //max clicked tags is 5
     if (clickedTagsArray.length <= 5) {
       let tagsCombinations = _.flatMap(clickedTagsArray, (v, i, a) =>
-        _.combinations(a, i + 1),
+        _.combinations(a, i + 1)
       );
-      return tagsCombinations.map((eachCombinations) => {
+      tagsCombinations.map((eachCombinations) => {
         //return results for each combinations
         const toBeIntersect = [];
         eachCombinations.forEach((operator) => {
@@ -63,7 +64,7 @@ const RecruitmentCalculator = () => {
         console.log(eachCombinations);
         if (eachCombinations.length <= 3) {
           const result = toBeIntersect.reduce((a, b) =>
-            a.filter((c) => b.includes(c)),
+            a.filter((c) => b.includes(c))
           );
           if (result.length > 0) {
             console.log(`${eachCombinations}: [${result}]`);
@@ -71,12 +72,6 @@ const RecruitmentCalculator = () => {
               tags: eachCombinations,
               operators: result,
             });
-            return (
-              <>
-                <p>{eachCombinations.toString()}</p>
-                <p>{result.toString()}</p>
-              </>
-            );
           }
         }
       });
@@ -88,11 +83,7 @@ const RecruitmentCalculator = () => {
     console.log(cleanData);
     // You can set `cleanData` as state, or return it
     setCalculatedOperatorList(cleanData);
-
-    return <></>;
   };
-
-  // operatorList();
 
   const renderOperatorList = (data) => {
     return <Table columns={columns} dataSource={data} />;
@@ -101,7 +92,6 @@ const RecruitmentCalculator = () => {
   return (
     <>
       {renderTagButtons()}
-      {operatorList()}
       {renderOperatorList(calculatedOperatorList)}
     </>
   );
