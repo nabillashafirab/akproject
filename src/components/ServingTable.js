@@ -27,13 +27,13 @@ const columns = [
     title: "Operators",
     key: "operators",
     dataIndex: "operators",
-    render: (_, { tags }) => (
+    render: (_, { operators }) => (
       <>
-        {tags.map((tag) => {
+        {operators.map((operator) => {
           let color = "white";
           return (
-            <Tag color={color} key={tag}>
-              {tag.toUpperCase()}
+            <Tag color={color} key={operator}>
+              {operator.toUpperCase()}
             </Tag>
           );
         })}
