@@ -30,7 +30,7 @@ const columns = [
     render: (_, { operators }) => (
       <>
         {operators.map((operator) => {
-          let color = "white";
+          let color = "black";
           return (
             <Tag color={color} key={operator}>
               {operator.toUpperCase()}
