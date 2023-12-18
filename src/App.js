@@ -1,8 +1,8 @@
 import "./App.css";
 import React from "react";
 import TagButton from "./components/TagButton";
-import { useState } from "react";
 import RecruitmentCalculator from "./components/RecruitmentCalculator";
+import TagQueryComponent from "./components/TagQueryComponent";
 
 function App() {
   // Declare function named convertStringTagToButton
@@ -22,6 +22,7 @@ function App() {
         <TagButton>Hello</TagButton>
       </div>
       <RecruitmentCalculator />
+      <TagQueryComponent/>
     </div>
   );
 }
